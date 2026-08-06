@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>yardapb — geocacher</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:wght@500;700;900&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#10160d;
+    --bg-panel:#171f14;
+    --bg-panel-2:#1c251a;
+    --contour:#33402c;
+    --contour-soft:#242e1f;
+    --accent:#ff6a39;
+    --accent-dim:#a84a28;
+    --text:#eae3cf;
+    --text-muted:#8e9884;
+    --mono:'IBM Plex Mono', ui-monospace, monospace;
+    --display:'Big Shoulders Stencil', sans-serif;
+    --body:'IBM Plex Sans', sans-serif;
+  }
+
+  *{box-sizing:border-box; margin:0; padding:0;}
+
+  html{scroll-behavior:smooth;}
+
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--body);
+    line-height:1.6;
+    overflow-x:hidden;
+  }
+
+  a{color:inherit;}
+
+  /* ---------- contour background ---------- */
+  .contour-field{
+    position:fixed;
+    inset:0;
+    z-index:0;
+    opacity:0.55;
+    pointer-events:none;
+  }
+
+  /* ---------- layout shell ---------- */
+  .wrap{
+    position:relative;
+    z-index:1;
+    max-width:920px;
+    margin:0 auto;
+    padding:0 28px;
+  }
+
+  /* ---------- nav ---------- */
+  nav{
+    position:sticky;
+    top:0;
+    z-index:10;
+    background:rgba(16,22,13,0.86);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--contour);
+  }
+  nav .wrap{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding-top:16px;
+    padding-bottom:16px;
+  }
+  .nav-mark{
+    font-family:var(--mono);
+    font-weight:600;
+    font-size:0.95rem;
+    letter-spacing:0.04em;
+    color:var(--accent);
+  }
+  .nav-links{
+    display:flex;
+    gap:24px;
+    font-family:var(--mono);
+    font-size:0.82rem;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color:var(--text-muted);
+  }
+  .nav-links a{text-decoration:none; transition:color .2s;}
+  .nav-links a:hover{color:var(--accent);}
+
+  /* ---------- hero ---------- */
+  .hero{
+    padding:88px 0 64px;
+    position:relative;
+  }
+
+  .gps-readout{
+    font-family:var(--mono);
+    font-size:0.8rem;
+    color:var(--text-muted);
+    letter-spacing:0.08em;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:28px;
+  }
+  .gps-dot{
+    width:7px; height:7px;
+    border-radius:50%;
+    background:var(--accent);
+    box-shadow:0 0 0 0 rgba(255,106,57,0.6);
+    animation:pulse 2.2s infinite;
+  }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(255,106,57,0.55);}
+    70%{box-shadow:0 0 0 9px rgba(255,106,57,0);}
+    100%{box-shadow:0 0 0 0 rgba(255,106,57,0);}
+  }
+  .gps-coords{color:var(--accent); font-weight:500;}
+
+  h1.brand{
+    font-family:var(--display);
+    font-weight:800;
+    font-size:clamp(3.4rem, 13vw, 7.5rem);
+    line-height:0.86;
+    letter-spacing:0.01em;
+    text-transform:uppercase;
+    color:var(--text);
+  }
+  h1.brand span{
+    display:block;
+    color:var(--accent);
+  }
+
+  .tagline{
+    font-family:var(--mono);
+    font-size:0.98rem;
+    color:var(--text-muted);
+    margin-top:22px;
+    max-width:520px;
+    border-left:2px solid var(--accent);
+    padding-left:14px;
+  }
+
+  .hero-ctas{
+    display:flex;
+    flex-wrap:wrap;
+    gap:14px;
+    margin-top:40px;
+  }
+  .btn{
+    font-family:var(--mono);
+    font-size:0.82rem;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    text-decoration:none;
+    padding:13px 22px;
+    border:1px solid var(--contour);
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    transition:border-color .2s, color .2s, background .2s;
+  }
+  .btn-solid{
+    background:var(--accent);
+    border-color:var(--accent);
+    color:#10160d;
+    font-weight:600;
+  }
+  .btn-solid:hover{background:#ff8158;}
+  .btn-ghost{
+    color:var(--text-muted);
+  }
+  .btn-ghost:hover{
+    border-color:var(--accent);
+    color:var(--accent);
+  }
+
+  /* ---------- section shared ---------- */
+  section{padding:64px 0;}
+  .section-head{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    margin-bottom:36px;
+    border-bottom:1px solid var(--contour);
+    padding-bottom:14px;
+  }
+  .section-num{
+    font-family:var(--mono);
+    color:var(--accent);
+    font-size:0.85rem;
+  }
+  .section-title{
+    font-family:var(--display);
+    text-transform:uppercase;
+    font-size:1.9rem;
+    font-weight:700;
+    letter-spacing:0.02em;
+  }
+
+  /* ---------- about ---------- */
+  .about-text{
+    font-size:1.05rem;
+    color:var(--text);
+    max-width:640px;
+  }
+  .about-text p + p{margin-top:16px;}
+
+  .stat-grid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:1px;
+    background:var(--contour);
+    margin-top:44px;
+    border:1px solid var(--contour);
+  }
+  .stat{
+    background:var(--bg-panel);
+    padding:22px 16px;
+    text-align:center;
+  }
+  .stat-num{
+    font-family:var(--mono);
+    font-size:1.7rem;
+    font-weight:600;
+    color:var(--accent);
+    display:block;
+  }
+  .stat-label{
+    font-family:var(--mono);
+    font-size:0.68rem;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color:var(--text-muted);
+    display:block;
+    margin-top:6px;
+  }
+
+  /* ---------- hides / logbook ---------- */
+  .cache-list{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+  .cache-card{
+    background:var(--bg-panel);
+    border:1px solid var(--contour);
+    border-left:3px solid var(--accent);
+    padding:20px 22px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:18px;
+    flex-wrap:wrap;
+    text-decoration:none;
+    color:var(--text);
+    transition:background .2s, border-color .2s;
+  }
+  .cache-card:hover{
+    background:var(--bg-panel-2);
+  }
+  .cache-main{flex:1; min-width:220px;}
+  .cache-gc{
+    font-family:var(--mono);
+    font-size:0.72rem;
+    color:var(--text-muted);
+    letter-spacing:0.05em;
+  }
+  .cache-name{
+    font-family:var(--display);
+    font-size:1.4rem;
+    font-weight:600;
+    text-transform:uppercase;
+    margin-top:4px;
+    letter-spacing:0.01em;
+  }
+  .cache-region{
+    font-family:var(--mono);
+    font-size:0.78rem;
+    color:var(--text-muted);
+    margin-top:6px;
+  }
+  .cache-meta{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    gap:6px;
+    font-family:var(--mono);
+    font-size:0.78rem;
+  }
+  .cache-type{
+    color:var(--accent);
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    font-size:0.7rem;
+  }
+  .cache-dt{color:var(--text-muted);}
+
+  .cache-card.ghost{
+    border-left:3px dashed var(--contour);
+    border-style:dashed;
+    color:var(--text-muted);
+    justify-content:center;
+    text-align:center;
+    font-family:var(--mono);
+    font-size:0.82rem;
+    letter-spacing:0.04em;
+    cursor:default;
+  }
+  .cache-card.ghost:hover{background:var(--bg-panel);}
+
+  /* ---------- footer ---------- */
+  footer{
+    border-top:1px solid var(--contour);
+    padding:40px 0 56px;
+    font-family:var(--mono);
+    font-size:0.78rem;
+    color:var(--text-muted);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  footer a{text-decoration:underline; text-decoration-color:var(--contour);}
+  footer a:hover{color:var(--accent); text-decoration-color:var(--accent);}
+
+  @media (max-width:640px){
+    .stat-grid{grid-template-columns:repeat(2,1fr);}
+    footer{flex-direction:column;}
+    .cache-meta{align-items:flex-start;}
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    .gps-dot{animation:none;}
+    html{scroll-behavior:auto;}
+  }
+</style>
+</head>
+<body>
+
+<svg class="contour-field" viewBox="0 0 1000 1400" preserveAspectRatio="xMidYMin slice" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#33402c" stroke-width="1">
+    <path d="M -50 120 C 150 60, 350 180, 550 90 S 950 40, 1100 130"/>
+    <path d="M -50 190 C 180 120, 340 250, 560 160 S 940 110, 1100 200"/>
+    <path d="M -50 260 C 200 190, 330 320, 570 230 S 930 180, 1100 270"/>
+    <path d="M -50 330 C 220 260, 320 390, 580 300 S 920 250, 1100 340"/>
+    <path d="M -50 400 C 240 340, 310 460, 590 370 S 910 320, 1100 410"/>
+  </g>
+  <g fill="none" stroke="#242e1f" stroke-width="1">
+    <path d="M -50 600 C 150 540, 380 660, 600 560 S 980 520, 1100 610"/>
+    <path d="M -50 670 C 180 610, 360 730, 620 630 S 960 590, 1100 680"/>
+    <path d="M -50 740 C 210 680, 340 800, 640 700 S 940 660, 1100 750"/>
+  </g>
+  <g fill="none" stroke="#33402c" stroke-width="1">
+    <path d="M -50 980 C 160 920, 400 1040, 610 950 S 1000 910, 1100 1000"/>
+    <path d="M -50 1050 C 190 1000, 380 1110, 630 1020 S 980 980, 1100 1070"/>
+    <path d="M -50 1120 C 220 1070, 360 1180, 650 1090 S 960 1050, 1100 1140"/>
+  </g>
+  <circle cx="600" cy="90" r="4" fill="#ff6a39" opacity="0.7"/>
+</svg>
+
+<nav>
+  <div class="wrap">
+    <span class="nav-mark">yardapb.cz</span>
+    <div class="nav-links">
+      <a href="#o-mne">O mně</a>
+      <a href="#kese">Keše</a>
+      <a href="#kontakt">Kontakt</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="gps-readout">
+      <span class="gps-dot"></span>
+      <span id="gps-status">HLEDÁM SIGNÁL…</span>
+      <span class="gps-coords">N 49° 41.31' &nbsp; E 14° 00.62'</span>
+    </div>
+
+    <h1 class="brand">YARDAPB</h1>
+
+    <p class="tagline">Geocaching nick · Středočeský kraj, ČR · aktivní od [rok]</p>
+
+    <div class="hero-ctas">
+      <a class="btn btn-solid" href="https://www.geocaching.com/p/default.aspx?u=yardapb" target="_blank" rel="noopener">Profil na Geocaching.com →</a>
+      <a class="btn btn-ghost" href="#kese">Zobrazit mé keše ↓</a>
+    </div>
+  </div>
+</header>
+
+<section id="o-mne">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="section-num">01</span>
+      <h2 class="section-title">O mně</h2>
+    </div>
+    <div class="about-text">
+      <p>Geocaching hraju od [rok] a za tu dobu se ze mě stal spíš datový maniak než dobrodruh. Většinu času netrávím hledáním v lese, ale laděním GSAK maker, importních skriptů a databází, které mi pomáhají keše plánovat, stahovat a archivovat napříč regiony.</p>
+      <p>Nejradši mám mystery a multi keše s pořádnou porcí luštění — a pak samozřejmě ten moment, kdy se GPS konečně shoduje s papírovou logbookem v ruce.</p>
+    </div>
+
+    <div class="stat-grid">
+      <div class="stat">
+        <span class="stat-num">[###]</span>
+        <span class="stat-label">Nálezy</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">[##]</span>
+        <span class="stat-label">Vlastní keše</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">[##]</span>
+        <span class="stat-label">Oblíbené body</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">[#/#]</span>
+        <span class="stat-label">Nejtěžší D/T</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="kese">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Mé keše</h2>
+    </div>
+
+    <div class="cache-list">
+      <a class="cache-card" href="https://www.geocaching.com/geocache/GC75A55_znas-pribram" target="_blank" rel="noopener">
+        <div class="cache-main">
+          <div class="cache-gc">GC75A55</div>
+          <div class="cache-name">Znáš Příbram?</div>
+          <div class="cache-region">Středočeský kraj · s myspulka</div>
+        </div>
+        <div class="cache-meta">
+          <span class="cache-type">Mystery</span>
+          <span class="cache-dt">D 5 / T 2.5</span>
+        </div>
+      </a>
+
+      <div class="cache-card ghost">
+        + doplň další vlastní keš (zkopíruj blok výše a uprav GC kód, název a odkaz)
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="kontakt">
+  <div class="wrap" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; width:100%;">
+    <span>© <span id="year"></span> yardapb — vytvořeno s GSAK, kávou a trpělivostí</span>
+    <span><a href="https://www.geocaching.com/p/default.aspx?u=yardapb" target="_blank" rel="noopener">geocaching.com/yardapb</a></span>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  const status = document.getElementById('gps-status');
+  if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+    setTimeout(() => { status.textContent = 'SIGNÁL ZAMČEN'; }, 1300);
+  } else {
+    status.textContent = 'SIGNÁL ZAMČEN';
+  }
+</script>
+
+</body>
+</html>
