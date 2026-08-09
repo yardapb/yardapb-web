@@ -1,42 +1,6 @@
 {
-  "generated": "2026-08-09T09:20:01.757Z",
+  "generated": "2026-08-09T14:40:32.818Z",
   "figs": [
-    {
-      "sw_kod": "sw1430",
-      "nazev": "Galactic Marine paper bag"
-    },
-    {
-      "sw_kod": "sw1091",
-      "nazev": "Darth Maul - Printed Mechanical Legs (Crimson Dawn Crime Lord)"
-    },
-    {
-      "sw_kod": "sw0737",
-      "nazev": "Poe Dameron (Medium Nougat Jacket, Hair)"
-    },
-    {
-      "sw_kod": "sw1347",
-      "nazev": "Mandalorian Fleet Commander - Helmet"
-    },
-    {
-      "sw_kod": "sw1427",
-      "nazev": "Commando Droid - Pearl Dark Gray"
-    },
-    {
-      "sw_kod": "sw1429",
-      "nazev": "Clone Trooper Commander Bly"
-    },
-    {
-      "sw_kod": "sw1338",
-      "nazev": "Battle Droid Pilot - Blue Torso with Tan Insignia and Chest Badge, Angled Arm and Straight Arm"
-    },
-    {
-      "sw_kod": "sw0001c",
-      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
-    },
-    {
-      "sw_kod": "sw1428",
-      "nazev": "Aayla Secura - Nougat Lips"
-    },
     {
       "sw_kod": "sw1227",
       "nazev": "Obi-Wan Kenobi - Dark Brown Robe, Dark Orange Mid-Length Hair with Ruffled Back"
@@ -72,6 +36,10 @@
     {
       "sw_kod": "sw1528",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads"
+    },
+    {
+      "sw_kod": "sw1430",
+      "nazev": "Galactic Marine paper bag"
     },
     {
       "sw_kod": "sw1202",
@@ -544,6 +512,10 @@
     {
       "sw_kod": "sw1402",
       "nazev": "Phase 2 Clone Pilot paper bag (sw1402)"
+    },
+    {
+      "sw_kod": "sw0001c",
+      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
     },
     {
       "sw_kod": "sw0002b",
@@ -1907,14 +1879,6 @@
     }
   ],
   "sets": [
-    {
-      "cislo": "75455",
-      "nazev": "Boba Fett"
-    },
-    {
-      "cislo": "75435",
-      "nazev": "Battle of Felucia Separatist MTT"
-    },
     {
       "cislo": "75334",
       "nazev": "Obi-Wan Kenobi vs. Darth Vader"
