@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T20:09:03.001Z",
+  "generated": "2026-08-10T16:19:15.267Z",
   "figs": [
     {
       "sw_kod": "sw1430",
@@ -1907,6 +1907,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75454",
+      "nazev": "Imperial Remnant AT-AT with INT-4"
+    },
     {
       "cislo": "75455",
       "nazev": "Boba Fett"
