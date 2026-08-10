@@ -1,6 +1,30 @@
 {
-  "generated": "2026-08-10T16:58:02.595Z",
+  "generated": "2026-08-10T17:31:09.367Z",
   "figs": [
+    {
+      "sw_kod": "sw1537",
+      "nazev": "AT-AT Driver - White and Light Bluish Gray Suit"
+    },
+    {
+      "sw_kod": "sw1536",
+      "nazev": "Imperial Remnant Snowtrooper - Umber Head"
+    },
+    {
+      "sw_kod": "sw1535",
+      "nazev": "Imperial Remnant Snowtrooper - Medium Nougat Head"
+    },
+    {
+      "sw_kod": "sw1534",
+      "nazev": "Snowtrooper - Male, Printed Legs, White Hands"
+    },
+    {
+      "sw_kod": "sw1533",
+      "nazev": "Imperial Remnant Warlord"
+    },
+    {
+      "sw_kod": "sw1519",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
+    },
     {
       "sw_kod": "sw1520",
       "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
@@ -96,10 +120,6 @@
     {
       "sw_kod": "sw0501",
       "nazev": "Jedi Consular"
-    },
-    {
-      "sw_kod": "sw1519",
-      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
     },
     {
       "sw_kod": "sw1525",
