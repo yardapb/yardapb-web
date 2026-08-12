@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T17:45:32.016Z",
+  "generated": "2026-08-12T19:54:55.636Z",
   "figs": [
     {
       "sw_kod": "sw1538",
@@ -452,6 +452,10 @@
     {
       "sw_kod": "sw1433",
       "nazev": "Jango Fett metal box {Helmet Shaped Box Version}"
+    },
+    {
+      "sw_kod": "sw1433a",
+      "nazev": "Jango Fett metal box {Rectangular Box Version} (sw1433a) (Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Left Side)"
     },
     {
       "sw_kod": "sw0707",
