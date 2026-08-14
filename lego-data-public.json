@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T14:44:47.342Z",
+  "generated": "2026-08-14T17:43:00.687Z",
   "figs": [
     {
       "sw_kod": "sw1538",
@@ -450,12 +450,8 @@
       "nazev": "Yoda - Olive Green, Open Robe with Small Creases"
     },
     {
-      "sw_kod": "sw1433",
-      "nazev": "Jango Fett metal box {Helmet Shaped Box Version}"
-    },
-    {
       "sw_kod": "sw1433a",
-      "nazev": "Jango Fett metal box {Rectangular Box Version} (sw1433a) (Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Left Side)"
+      "nazev": "Jango Fett metal box {Helmet Shaped Box Version} (sw1433a) (Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Left Side)"
     },
     {
       "sw_kod": "sw0707",
@@ -1804,6 +1800,10 @@
     {
       "sw_kod": "sw1432",
       "nazev": "Ki-Adi-Mundi - Printed Legs, Straight Beltzakoupeno: 11.4.2026"
+    },
+    {
+      "sw_kod": "sw1433",
+      "nazev": "Jango Fett - Nougat Head, Plain Arms"
     },
     {
       "sw_kod": "sw1434",
