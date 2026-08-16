@@ -1,6 +1,18 @@
 {
-  "generated": "2026-08-14T17:43:00.687Z",
+  "generated": "2026-08-16T20:21:32.316Z",
   "figs": [
+    {
+      "sw_kod": "sw1344",
+      "nazev": "Mandalorian Nite Owl paper bag (sw1344 - Mandalorian Nite Owl)"
+    },
+    {
+      "sw_kod": "sw1404",
+      "nazev": "Qui-Gon Jinn paper bag (sw1404 - Qui-Gon Jinn - Dark Brown Legs and Beard"
+    },
+    {
+      "sw_kod": "sw1346",
+      "nazev": "Imperial Commando paper bag (sw1346 - Imperial Commando)"
+    },
     {
       "sw_kod": "sw1538",
       "nazev": "Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Rangefinder"
@@ -1636,10 +1648,6 @@
     {
       "sw_kod": "sw1345",
       "nazev": "Mandalorian Warrior"
-    },
-    {
-      "sw_kod": "sw1346",
-      "nazev": "Imperial Commando"
     },
     {
       "sw_kod": "sw1349",
