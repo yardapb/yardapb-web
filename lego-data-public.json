@@ -1,6 +1,46 @@
 {
-  "generated": "2026-08-25T22:45:07.987Z",
+  "generated": "2026-08-25T22:58:44.195Z",
   "figs": [
+    {
+      "sw_kod": "sw0970",
+      "nazev": "Ugnaught - Light Bluish Gray Shirt, Black Short Legs"
+    },
+    {
+      "sw_kod": "sw0958",
+      "nazev": "Princess Leia - Hoth Outfit, White Jacket, Lopsided Grin / Angry Frown"
+    },
+    {
+      "sw_kod": "sw0972",
+      "nazev": "Princess Leia - Bespin Outfit, Short Braided Hair, Printed Skirt"
+    },
+    {
+      "sw_kod": "sw0971",
+      "nazev": "Luke Skywalker (Cloud City, Dark Tan Shirt)"
+    },
+    {
+      "sw_kod": "sw0974",
+      "nazev": "Lobot - Light Bluish Gray Uniform, Light Nougat Head, Dark Orange Eyebrows"
+    },
+    {
+      "sw_kod": "sw0973",
+      "nazev": "Lando Calrissian, Cloud City Outfit (Coiled Texture Hair)"
+    },
+    {
+      "sw_kod": "sw0585",
+      "nazev": "Imperial Stormtrooper - Printed Legs, Dark Blue Helmet Vents"
+    },
+    {
+      "sw_kod": "sw0823",
+      "nazev": "Han Solo - White Shirt with Wrinkles on Front, Dark Brown Legs, Wavy Hair"
+    },
+    {
+      "sw_kod": "sw0976",
+      "nazev": "Han Solo - Dual Molded Legs"
+    },
+    {
+      "sw_kod": "sw0636b",
+      "nazev": "Darth Vader (Type 2 Helmet, Spongy Cape)"
+    },
     {
       "sw_kod": "sw0969",
       "nazev": "Cloud Car Pilot"
@@ -1276,10 +1316,6 @@
     {
       "sw_kod": "sw0957",
       "nazev": "Luke Skywalker (Bacta Tank Outfit, Dark Tan Hair)"
-    },
-    {
-      "sw_kod": "sw0958",
-      "nazev": "Princess Leia - Hoth Outfit, White Jacket, Lopsided Grin - Angry Frown"
     },
     {
       "sw_kod": "sw0963",
