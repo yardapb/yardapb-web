@@ -1,6 +1,38 @@
 {
-  "generated": "2026-08-25T22:29:40.527Z",
+  "generated": "2026-08-25T22:45:07.987Z",
   "figs": [
+    {
+      "sw_kod": "sw0969",
+      "nazev": "Cloud Car Pilot"
+    },
+    {
+      "sw_kod": "sw0532",
+      "nazev": "Chewbacca - Dark Brown, Medium Nougat Fur"
+    },
+    {
+      "sw_kod": "sw0700",
+      "nazev": "C-3PO - Colorful Wires, Printed Legs"
+    },
+    {
+      "sw_kod": "sw0977",
+      "nazev": "Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Clone Head"
+    },
+    {
+      "sw_kod": "sw0975",
+      "nazev": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Moustache"
+    },
+    {
+      "sw_kod": "sw0762",
+      "nazev": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Furrowed Eyebrows"
+    },
+    {
+      "sw_kod": "sw0527a",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor"
+    },
+    {
+      "sw_kod": "sw0831a",
+      "nazev": "Assassin Droid (IG-88) - Dark Bluish Gray, Printed Head, 1 x 1 Round Plate and Clip"
+    },
     {
       "sw_kod": "sw1422",
       "nazev": "327th Star Corps Clone Trooper paper bag (sw1422 - Clone Trooper, 327th Star Corps (Phase 2) - Nougat Head)"
@@ -286,10 +318,6 @@
       "nazev": "Ewok Warrior"
     },
     {
-      "sw_kod": "sw0527a",
-      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor"
-    },
-    {
       "sw_kod": "sw0539",
       "nazev": "Han Solo - Black Vest with Pockets over Tan Shirt with Dark Tan Creases, Dark Blue Legs with Belts, Smooth Hair"
     },
@@ -544,10 +572,6 @@
     {
       "sw_kod": "sw1396",
       "nazev": "Ahsoka Tano (Padawan) - Dark Red Backless Vest with Necklace and Belt, Medium Legs"
-    },
-    {
-      "sw_kod": "sw0532",
-      "nazev": "Chewbacca - Dark Brown, Medium Nougat Fur"
     },
     {
       "sw_kod": "sw1363",
@@ -1062,10 +1086,6 @@
       "nazev": "Resistance Officer - Headset"
     },
     {
-      "sw_kod": "sw0700",
-      "nazev": "C-3PO - Colorful Wires, Printed Legs"
-    },
-    {
       "sw_kod": "sw0704",
       "nazev": "Obi-Wan Kenobi (Headset)"
     },
@@ -1120,10 +1140,6 @@
     {
       "sw_kod": "sw0760",
       "nazev": "Hoth Rebel Trooper White Uniform (Moustache)"
-    },
-    {
-      "sw_kod": "sw0762",
-      "nazev": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Furrowed Eyebrows"
     },
     {
       "sw_kod": "sw0764",
@@ -1268,14 +1284,6 @@
     {
       "sw_kod": "sw0963",
       "nazev": "Antoc Merrick"
-    },
-    {
-      "sw_kod": "sw0969",
-      "nazev": "Cloud Car Pilot"
-    },
-    {
-      "sw_kod": "sw0977",
-      "nazev": "Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Clone Head"
     },
     {
       "sw_kod": "sw0987",
@@ -1947,6 +1955,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75222",
+      "nazev": "Betrayal at Cloud City"
+    },
     {
       "cislo": "75454",
       "nazev": "Imperial Remnant AT-AT with INT-4"
