@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T20:12:55.663Z",
+  "generated": "2026-08-31T17:29:55.328Z",
   "figs": [
     {
       "sw_kod": "sw0970",
@@ -1988,6 +1988,150 @@
     {
       "sw_kod": "sw1488",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head"
+    },
+    {
+      "sw_kod": "sw1378",
+      "nazev": "Ackbar Trooper"
+    },
+    {
+      "sw_kod": "sw1096",
+      "nazev": "Ahsoka Tano (Adult) - Dark Blue Jumpsuit"
+    },
+    {
+      "sw_kod": "sw1058",
+      "nazev": "Carasynthia 'Cara' Dune"
+    },
+    {
+      "sw_kod": "sw1093",
+      "nazev": "Clone Jet Trooper, 501st Legion (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw0837",
+      "nazev": "Clone Trooper Gunner (Phase 2) - Scowl"
+    },
+    {
+      "sw_kod": "sw1051",
+      "nazev": "D-O"
+    },
+    {
+      "sw_kod": "sw0769",
+      "nazev": "Death Star Trooper (Imperial Navy Trooper)"
+    },
+    {
+      "sw_kod": "sw1173",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Holiday Outfit"
+    },
+    {
+      "sw_kod": "sw0989",
+      "nazev": "Elite Praetorian Guard - Flat Helmet"
+    },
+    {
+      "sw_kod": "sw0473",
+      "nazev": "FA-4 Pilot Droid"
+    },
+    {
+      "sw_kod": "sw1192",
+      "nazev": "Fennec Shand - Hair"
+    },
+    {
+      "sw_kod": "sw0667",
+      "nazev": "First Order Stormtrooper (Rounded Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0872",
+      "nazev": "First Order Stormtrooper Squad Leader (Rounded Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0860",
+      "nazev": "First Order TIE Fighter Pilot - Two Red Stripes on Helmet"
+    },
+    {
+      "sw_kod": "sw1157",
+      "nazev": "Imperial Artillery Stormtrooper - Male, Light Nougat Head, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw0691",
+      "nazev": "Imperial Jet Pack Trooper (Jumptrooper)"
+    },
+    {
+      "sw_kod": "sw0692",
+      "nazev": "Imperial Shock Trooper"
+    },
+    {
+      "sw_kod": "sw1251",
+      "nazev": "Imperial TIE Bomber Pilot - Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw1138",
+      "nazev": "Imperial TIE Fighter Pilot - Light Nougat Head, Frown"
+    },
+    {
+      "sw_kod": "sw0543",
+      "nazev": "Imperial TIE Fighter Pilot - Light Nougat Head, Scowl, Silver Insignia on Helmet"
+    },
+    {
+      "sw_kod": "sw0621",
+      "nazev": "Imperial TIE Fighter Pilot - Rebels"
+    },
+    {
+      "sw_kod": "sw1268",
+      "nazev": "Kai Brightstar"
+    },
+    {
+      "sw_kod": "sw1336",
+      "nazev": "Kelleran Beq"
+    },
+    {
+      "sw_kod": "sw1039",
+      "nazev": "Luke Skywalker, Old (Dark Brown Robe)"
+    },
+    {
+      "sw_kod": "sw0494",
+      "nazev": "Mandalorian Super Commando - Large Sand Blue Eyes"
+    },
+    {
+      "sw_kod": "sw1172",
+      "nazev": "Paz Vizsla - Backpack with Clip"
+    },
+    {
+      "sw_kod": "sw0810",
+      "nazev": "Qui-Gon Jinn, without Cape"
+    },
+    {
+      "sw_kod": "sw0884",
+      "nazev": "Resistance Pilot A-wing (Tallissan 'Tallie' Lintra)"
+    },
+    {
+      "sw_kod": "sw0669",
+      "nazev": "Resistance Soldier, Male"
+    },
+    {
+      "sw_kod": "sw0720",
+      "nazev": "Resistance Trooper - Dark Tan Jacket, Frown, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw1237",
+      "nazev": "Reva (Third Sister), Inquisitor"
+    },
+    {
+      "sw_kod": "sw1380",
+      "nazev": "Servo (SR-V0) - Gonk Droid (GNK Power Droid)"
+    },
+    {
+      "sw_kod": "sw0092",
+      "nazev": "Super Battle Droid - Pearl Dark Gray, Wide Head"
+    },
+    {
+      "sw_kod": "sw1171",
+      "nazev": "The Armorer"
+    },
+    {
+      "sw_kod": "sw1194",
+      "nazev": "Theelin Dancer"
+    },
+    {
+      "sw_kod": "sw1250",
+      "nazev": "Vice Admiral Sloane"
     }
   ],
   "sets": [
