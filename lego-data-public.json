@@ -1,5 +1,2303 @@
 {
-  "generated": "2026-09-01T19:18:52.755Z",
-  "figs": [],
-  "sets": []
+  "generated": "2026-09-01T19:20:32.525Z",
+  "figs": [
+    {
+      "sw_kod": "sw0970",
+      "nazev": "Ugnaught - Light Bluish Gray Shirt, Black Short Legs"
+    },
+    {
+      "sw_kod": "sw0958",
+      "nazev": "Princess Leia - Hoth Outfit, White Jacket, Lopsided Grin / Angry Frown"
+    },
+    {
+      "sw_kod": "sw0972",
+      "nazev": "Princess Leia - Bespin Outfit, Short Braided Hair, Printed Skirt"
+    },
+    {
+      "sw_kod": "sw0971",
+      "nazev": "Luke Skywalker (Cloud City, Dark Tan Shirt)"
+    },
+    {
+      "sw_kod": "sw0974",
+      "nazev": "Lobot - Light Bluish Gray Uniform, Light Nougat Head, Dark Orange Eyebrows"
+    },
+    {
+      "sw_kod": "sw0973",
+      "nazev": "Lando Calrissian, Cloud City Outfit (Coiled Texture Hair)"
+    },
+    {
+      "sw_kod": "sw0585",
+      "nazev": "Imperial Stormtrooper - Printed Legs, Dark Blue Helmet Vents"
+    },
+    {
+      "sw_kod": "sw0823",
+      "nazev": "Han Solo - White Shirt with Wrinkles on Front, Dark Brown Legs, Wavy Hair"
+    },
+    {
+      "sw_kod": "sw0976",
+      "nazev": "Han Solo - Dual Molded Legs"
+    },
+    {
+      "sw_kod": "sw0636b",
+      "nazev": "Darth Vader (Type 2 Helmet, Spongy Cape)"
+    },
+    {
+      "sw_kod": "sw0969",
+      "nazev": "Cloud Car Pilot"
+    },
+    {
+      "sw_kod": "sw0532",
+      "nazev": "Chewbacca - Dark Brown, Medium Nougat Fur"
+    },
+    {
+      "sw_kod": "sw0700",
+      "nazev": "C-3PO - Colorful Wires, Printed Legs"
+    },
+    {
+      "sw_kod": "sw0977",
+      "nazev": "Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Clone Head"
+    },
+    {
+      "sw_kod": "sw0975",
+      "nazev": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Moustache"
+    },
+    {
+      "sw_kod": "sw0762",
+      "nazev": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Furrowed Eyebrows"
+    },
+    {
+      "sw_kod": "sw0527a",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor"
+    },
+    {
+      "sw_kod": "sw0831a",
+      "nazev": "Assassin Droid (IG-88) - Dark Bluish Gray, Printed Head, 1 x 1 Round Plate and Clip"
+    },
+    {
+      "sw_kod": "sw1422",
+      "nazev": "327th Star Corps Clone Trooper paper bag (sw1422 - Clone Trooper, 327th Star Corps (Phase 2) - Nougat Head)"
+    },
+    {
+      "sw_kod": "sw1344",
+      "nazev": "Mandalorian Nite Owl paper bag (sw1344 - Mandalorian Nite Owl)"
+    },
+    {
+      "sw_kod": "sw1404",
+      "nazev": "Qui-Gon Jinn paper bag (sw1404 - Qui-Gon Jinn - Dark Brown Legs and Beard"
+    },
+    {
+      "sw_kod": "sw1346",
+      "nazev": "Imperial Commando paper bag (sw1346 - Imperial Commando)"
+    },
+    {
+      "sw_kod": "sw1538",
+      "nazev": "Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Rangefinder"
+    },
+    {
+      "sw_kod": "sw1537",
+      "nazev": "AT-AT Driver - White and Light Bluish Gray Suit"
+    },
+    {
+      "sw_kod": "sw1536",
+      "nazev": "Imperial Remnant Snowtrooper - Umber Head"
+    },
+    {
+      "sw_kod": "sw1535",
+      "nazev": "Imperial Remnant Snowtrooper - Medium Nougat Head"
+    },
+    {
+      "sw_kod": "sw1534",
+      "nazev": "Snowtrooper - Male, Printed Legs, White Hands"
+    },
+    {
+      "sw_kod": "sw1533",
+      "nazev": "Imperial Remnant Warlord"
+    },
+    {
+      "sw_kod": "sw1519",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
+    },
+    {
+      "sw_kod": "sw1520",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
+    },
+    {
+      "sw_kod": "sw1430",
+      "nazev": "Galactic Marine paper bag"
+    },
+    {
+      "sw_kod": "sw1091",
+      "nazev": "Darth Maul - Printed Mechanical Legs (Crimson Dawn Crime Lord)"
+    },
+    {
+      "sw_kod": "sw0737",
+      "nazev": "Poe Dameron (Medium Nougat Jacket, Hair)"
+    },
+    {
+      "sw_kod": "sw1347",
+      "nazev": "Mandalorian Fleet Commander - Helmet"
+    },
+    {
+      "sw_kod": "sw1427",
+      "nazev": "Commando Droid - Pearl Dark Gray"
+    },
+    {
+      "sw_kod": "sw1429",
+      "nazev": "Clone Trooper Commander Bly"
+    },
+    {
+      "sw_kod": "sw1338",
+      "nazev": "Battle Droid Pilot - Blue Torso with Tan Insignia and Chest Badge, Angled Arm and Straight Arm"
+    },
+    {
+      "sw_kod": "sw0001c",
+      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
+    },
+    {
+      "sw_kod": "sw1428",
+      "nazev": "Aayla Secura - Nougat Lips"
+    },
+    {
+      "sw_kod": "sw1227",
+      "nazev": "Obi-Wan Kenobi - Dark Brown Robe, Dark Orange Mid-Length Hair with Ruffled Back"
+    },
+    {
+      "sw_kod": "sw1226",
+      "nazev": "NED-B Loader Droid"
+    },
+    {
+      "sw_kod": "sw1228",
+      "nazev": "Darth Vader - Light Nougat Head, Printed Arms"
+    },
+    {
+      "sw_kod": "sw1225",
+      "nazev": "Captain Tala Durith"
+    },
+    {
+      "sw_kod": "sw1456",
+      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw1531",
+      "nazev": "Moff Gideon - Cape, Medium Brown Head"
+    },
+    {
+      "sw_kod": "sw1530",
+      "nazev": "Dr. Penn Pershing"
+    },
+    {
+      "sw_kod": "sw1529",
+      "nazev": "Imperial Shuttle Pilot - Light Nougat Head, Black Aviator Cap"
+    },
+    {
+      "sw_kod": "sw1528",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads"
+    },
+    {
+      "sw_kod": "sw1202",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots, Large Receptor, Back Printing"
+    },
+    {
+      "sw_kod": "sw1517",
+      "nazev": "New Republic Astromech - Dark Green"
+    },
+    {
+      "sw_kod": "sw1516",
+      "nazev": "Colonel Ward - X-Wing Flightsuit"
+    },
+    {
+      "sw_kod": "sw1518",
+      "nazev": "Carson Teva - X-Wing Flightsuit"
+    },
+    {
+      "sw_kod": "sw0501",
+      "nazev": "Jedi Consular"
+    },
+    {
+      "sw_kod": "sw1525",
+      "nazev": "Imperial Stormtrooper - Dual Molded Helmet with Light Bluish Gray Panels on Back, Black Pauldron, Shoulder Belts, Medium Nougat Head"
+    },
+    {
+      "sw_kod": "sw1527",
+      "nazev": "Garazeb 'Zeb' Orrelios - Republic Flightsuit"
+    },
+    {
+      "sw_kod": "sw1522",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet"
+    },
+    {
+      "sw_kod": "sw1526",
+      "nazev": "Colonel Ward - Sand Green Jacket, Reddish Brown Legs"
+    },
+    {
+      "sw_kod": "sw1489",
+      "nazev": "Cobb Vanth"
+    },
+    {
+      "sw_kod": "sw1490",
+      "nazev": "Cad Bane - Black Head"
+    },
+    {
+      "sw_kod": "sw1414",
+      "nazev": "Plo Koon - Dark Brown Robe, Tan Shirt, Printed Legs"
+    },
+    {
+      "sw_kod": "sw0005",
+      "nazev": "Imperial Scout Trooper - Yellow Head, Dark Gray Torso Print"
+    },
+    {
+      "sw_kod": "sw0007",
+      "nazev": "Anakin Skywalker (Brown Aviator Cap)"
+    },
+    {
+      "sw_kod": "sw0052",
+      "nazev": "Tusken Raider - Tan Head, Plain Legs"
+    },
+    {
+      "sw_kod": "sw0087",
+      "nazev": "Gamorrean Guard - Sand Green, Reddish Brown Arms"
+    },
+    {
+      "sw_kod": "sw0097",
+      "nazev": "Imperial Stormtrooper - Chrome Silver"
+    },
+    {
+      "sw_kod": "sw0118",
+      "nazev": "Clone Trooper V-wing Pilot (Phase 2) - Sand Blue Arms and Legs, Black Head"
+    },
+    {
+      "sw_kod": "sw0119",
+      "nazev": "Astromech Droid, R7-D4"
+    },
+    {
+      "sw_kod": "sw0126",
+      "nazev": "Clone Trooper (Phase 2) - Black Head, Continuous Mouth"
+    },
+    {
+      "sw_kod": "sw0162",
+      "nazev": "Obi-Wan Kenobi - Light Nougat, Dark Orange Hair, Tan Legs, Gold Headse"
+    },
+    {
+      "sw_kod": "sw0183",
+      "nazev": "Anakin Skywalker - Large Eyes, Reddish Brown Arms"
+    },
+    {
+      "sw_kod": "sw0187",
+      "nazev": "Rebel Fleet Trooper / Rebel Scout Trooper - Plain Vest, Frown"
+    },
+    {
+      "sw_kod": "sw0197",
+      "nazev": "Obi-Wan Kenobi - Clone Wars, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0208a",
+      "nazev": "Imperial Trooper (Light Bluish Gray Helmet)"
+    },
+    {
+      "sw_kod": "sw0213",
+      "nazev": "Astromech Droid, R2-Q5"
+    },
+    {
+      "sw_kod": "sw0289",
+      "nazev": "General Maximillian Veers - Chest Armor, Light Bluish Gray Helmet"
+    },
+    {
+      "sw_kod": "sw0303",
+      "nazev": "Astromech Droid, R2-Q2 (Small Red Dots)"
+    },
+    {
+      "sw_kod": "sw0305",
+      "nazev": "Sugi"
+    },
+    {
+      "sw_kod": "sw0334",
+      "nazev": "Han Solo - Black Vest over Tan Shirt, Dark Blue Legs with Belts"
+    },
+    {
+      "sw_kod": "sw0358",
+      "nazev": "Yoda - Santa Yoda, Backpack"
+    },
+    {
+      "sw_kod": "sw0370",
+      "nazev": "Astromech Droid, R5-F7"
+    },
+    {
+      "sw_kod": "sw0428",
+      "nazev": "Snowtrooper, Light Bluish Gray Hips, White Hands, Printed Head"
+    },
+    {
+      "sw_kod": "sw0440",
+      "nazev": "Republic Trooper - Helmet, Smirk"
+    },
+    {
+      "sw_kod": "sw0442",
+      "nazev": "Clone Trooper (Phase 1) - Scowl"
+    },
+    {
+      "sw_kod": "sw0444",
+      "nazev": "Republic Trooper - Helmet, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw0446",
+      "nazev": "Yoda - Clone Wars, White Hair, Torso with Back Print"
+    },
+    {
+      "sw_kod": "sw0449",
+      "nazev": "Obi-Wan Kenobi (Medium Nougat Legs)"
+    },
+    {
+      "sw_kod": "sw0456",
+      "nazev": "Astromech Droid, R4-P17 - Black Full Rectangles"
+    },
+    {
+      "sw_kod": "sw0489",
+      "nazev": "Obi-Wan Kenobi (Mid-Length Tousled with Center Part Hair)"
+    },
+    {
+      "sw_kod": "sw0508",
+      "nazev": "Ewok Warrior"
+    },
+    {
+      "sw_kod": "sw0539",
+      "nazev": "Han Solo - Black Vest with Pockets over Tan Shirt with Dark Tan Creases, Dark Blue Legs with Belts, Smooth Hair"
+    },
+    {
+      "sw_kod": "sw0578",
+      "nazev": "Imperial Stormtrooper - Printed Legs, Dark Azure Helmet Vents"
+    },
+    {
+      "sw_kod": "sw0654",
+      "nazev": "First Order Crew Member (Fleet Engineer / Gunner) - Reddish Brown Head"
+    },
+    {
+      "sw_kod": "sw0659",
+      "nazev": "Resistance Pilot X-wing"
+    },
+    {
+      "sw_kod": "sw0693",
+      "nazev": "Imperial Crew - Black Cap, Closed Mouth"
+    },
+    {
+      "sw_kod": "sw0701",
+      "nazev": "First Order Snowtrooper"
+    },
+    {
+      "sw_kod": "sw0713",
+      "nazev": "Wookiee - Reddish Brown with Dark Tan Fur, Printed Legs, Plain Arms"
+    },
+    {
+      "sw_kod": "sw0721",
+      "nazev": "Resistance Trooper - Resistance Logo"
+    },
+    {
+      "sw_kod": "sw0784",
+      "nazev": "Rebel Trooper (Lieutenant Sefla)"
+    },
+    {
+      "sw_kod": "sw0797",
+      "nazev": "Imperial AT-ST Driver (Helmet with Printed Goggles, Light Bluish Gray Jumpsuit, Printed Legs)"
+    },
+    {
+      "sw_kod": "sw0801",
+      "nazev": "Rebel Pilot Y-wing (Dark Blue Jumpsuit)"
+    },
+    {
+      "sw_kod": "sw0813",
+      "nazev": "Cassian Andor - Reddish Brown Jacket"
+    },
+    {
+      "sw_kod": "sw0830",
+      "nazev": "4-LOM"
+    },
+    {
+      "sw_kod": "sw0871",
+      "nazev": "First Order Shuttle Pilot"
+    },
+    {
+      "sw_kod": "sw0877",
+      "nazev": "Imperial Officer (Major / Colonel / Commodore)"
+    },
+    {
+      "sw_kod": "sw0888",
+      "nazev": "Rey - Dark Tan Jacket"
+    },
+    {
+      "sw_kod": "sw0895",
+      "nazev": "Astromech Droid, R3-T2"
+    },
+    {
+      "sw_kod": "sw0900",
+      "nazev": "Finn - First Order Officer Disguise"
+    },
+    {
+      "sw_kod": "sw0901",
+      "nazev": "Rose Tico - Dark Blue First Order Officer Disguise, Hat with Hair"
+    },
+    {
+      "sw_kod": "sw0910",
+      "nazev": "Clone Trooper (Phase 1) - Printed Legs, Scowl"
+    },
+    {
+      "sw_kod": "sw0912",
+      "nazev": "Imperial Emigration Officer (Imperial Navy Trooper - Corporal Zuzanu Latt)"
+    },
+    {
+      "sw_kod": "sw0990",
+      "nazev": "Elite Praetorian Guard - Pointed Helmet, Legs"
+    },
+    {
+      "sw_kod": "sw1028",
+      "nazev": "Wookiee Warrior - Dark Brown with Dark Tan Fur, Printed Legs"
+    },
+    {
+      "sw_kod": "sw1034",
+      "nazev": "BB-8 (Large Photoreceptor and Large Black Circle)"
+    },
+    {
+      "sw_kod": "sw1059",
+      "nazev": "Klatooinian Raider - Neck Armor"
+    },
+    {
+      "sw_kod": "sw1060",
+      "nazev": "Klatooinian Raider - Aviator Helmet, Shoulder Pad with Spikes"
+    },
+    {
+      "sw_kod": "sw1077",
+      "nazev": "Mandalorian Tribe Warrior (Amot Tenau) - Female, Black Cape, Light Bluish Gray Helmet with Antenna / Rangefinder"
+    },
+    {
+      "sw_kod": "sw1078",
+      "nazev": "Mandalorian Tribe Warrior (Idalia Desta) - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder"
+    },
+    {
+      "sw_kod": "sw1080",
+      "nazev": "Mandalorian Tribe Warrior (Hewitt Dala) - Male, Olive Green Cape, Dark Azure Helmet"
+    },
+    {
+      "sw_kod": "sw1135",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Plain Head"
+    },
+    {
+      "sw_kod": "sw1137",
+      "nazev": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Light Nougat Head, Frown"
+    },
+    {
+      "sw_kod": "sw1170",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Holiday Scarf"
+    },
+    {
+      "sw_kod": "sw1183",
+      "nazev": "Imperial AT-ST Driver - Helmet with Molded Goggles, White Jacket (Hoth)"
+    },
+    {
+      "sw_kod": "sw1197",
+      "nazev": "Weequay Guard (Reddish Brown Legs)"
+    },
+    {
+      "sw_kod": "sw1205",
+      "nazev": "Mace Windu (Dark Tan Legs, Open Mouth, Printed Arms)"
+    },
+    {
+      "sw_kod": "sw1235",
+      "nazev": "Clone Trooper, 212th Attack Battalion (Phase 2) - White Arms, Dirt Stains, Nougat Head, Helmet with Holes"
+    },
+    {
+      "sw_kod": "sw1245",
+      "nazev": "Boba Fett - Repainted Beskar Armor, Jet Pack"
+    },
+    {
+      "sw_kod": "sw1258",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Helmet with Top Lines"
+    },
+    {
+      "sw_kod": "sw1143",
+      "nazev": "Luke Skywalker (Hoth, Balaclava Head)"
+    },
+    {
+      "sw_kod": "sw1312",
+      "nazev": "Luke Skywalker - Dark Tan Endor Outfit, Hair"
+    },
+    {
+      "sw_kod": "sw1021",
+      "nazev": "Han Solo, Dark Brown Legs with Holster Pattern, Dark Blue Jacket, Wavy Hair, Smile / Frown"
+    },
+    {
+      "sw_kod": "sw1313",
+      "nazev": "Hoth Rebel Trooper Dark Tan Uniform and Helmet, White Legs, Female (Kori Zaran)"
+    },
+    {
+      "sw_kod": "sw1147",
+      "nazev": "Yoda - Olive Green, Backpack"
+    },
+    {
+      "sw_kod": "sw1288",
+      "nazev": "Yoda - Olive Green, Open Robe with Small Creases"
+    },
+    {
+      "sw_kod": "sw1433a",
+      "nazev": "Jango Fett metal box {Helmet Shaped Box Version} (sw1433a) (Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Left Side)"
+    },
+    {
+      "sw_kod": "sw0707",
+      "nazev": "Yoda - Olive Green, Open Robe with Large Creases"
+    },
+    {
+      "sw_kod": "sw1451",
+      "nazev": "Snowman BB-8"
+    },
+    {
+      "sw_kod": "sw1450",
+      "nazev": "Medical Droid - Holiday Outfit"
+    },
+    {
+      "sw_kod": "sw1449",
+      "nazev": "Imperial Probe Droid - Black and Dark Bluish Gray Body, Trans-Clear Dish Stand"
+    },
+    {
+      "sw_kod": "sw1321",
+      "nazev": "Super Battle Droid - Pearl Dark Gray, Narrow Head, Chest Light Indent"
+    },
+    {
+      "sw_kod": "sw1448",
+      "nazev": "Mouse Droid (MSE-6-series Repair Droid) - Holiday Outfit"
+    },
+    {
+      "sw_kod": "sw1447",
+      "nazev": "Battle Droid - Tan, Dark Bluish Gray Left Arm, Antenna (Scrap Battle Droid)"
+    },
+    {
+      "sw_kod": "sw1446",
+      "nazev": "Treadwell Droid - White and Red Body, Light Bluish Gray Binoculars"
+    },
+    {
+      "sw_kod": "sw1445",
+      "nazev": "Jawa - Holiday Sweater"
+    },
+    {
+      "sw_kod": "sw1211",
+      "nazev": "BD-72 (6331232)"
+    },
+    {
+      "sw_kod": "sw1444",
+      "nazev": "B2EMO Droid"
+    },
+    {
+      "sw_kod": "sw1443",
+      "nazev": "Buzz Droid - Tan Dome Tops"
+    },
+    {
+      "sw_kod": "sw1397",
+      "nazev": "Astromech Droid, R7-A7 - Dark Bluish Gray Rectangles"
+    },
+    {
+      "sw_kod": "sw1442",
+      "nazev": "Gonk Droid (GNK Power Droid) - Body with Trans-Dark Blue and Trans-Dark Pink Lights"
+    },
+    {
+      "sw_kod": "sw1441",
+      "nazev": "Pit Droid - Reddish Brown Skeleton Arms"
+    },
+    {
+      "sw_kod": "sw1440",
+      "nazev": "C-3PO - Printed Legs, Toes and Arms, Red Eyes"
+    },
+    {
+      "sw_kod": "sw1439",
+      "nazev": "Babu Frik (6538158)"
+    },
+    {
+      "sw_kod": "sw1398",
+      "nazev": "Anakin Skywalker - Dark Brown and Black Robe, Black Hands"
+    },
+    {
+      "sw_kod": "sw1396",
+      "nazev": "Ahsoka Tano (Padawan) - Dark Red Backless Vest with Necklace and Belt, Medium Legs"
+    },
+    {
+      "sw_kod": "sw1363",
+      "nazev": "Jedi Vader"
+    },
+    {
+      "sw_kod": "sw1395",
+      "nazev": "Sabine Wren paper bag (sw1395)"
+    },
+    {
+      "sw_kod": "sw1300",
+      "nazev": "Ahsoka Tano paper bag (sw1300)"
+    },
+    {
+      "sw_kod": "sw0384",
+      "nazev": "Darth Maul polybag (sw0384 - Darth Maul - Printed Red Arms)"
+    },
+    {
+      "sw_kod": "sw0802",
+      "nazev": "Imperial Shuttle Pilot foil pack (sw0802)"
+    },
+    {
+      "sw_kod": "sw0778",
+      "nazev": "Luke Skywalker foil pack #1 (sw0778)"
+    },
+    {
+      "sw_kod": "sw1259",
+      "nazev": "Mandalorian Pilot paper bag (sw1259)"
+    },
+    {
+      "sw_kod": "sw1425",
+      "nazev": "Phase 1 Clone Pilot paper bag (sw1425)"
+    },
+    {
+      "sw_kod": "sw1417",
+      "nazev": "Night Trooper paper bag (sw1417)"
+    },
+    {
+      "sw_kod": "sw1402",
+      "nazev": "Phase 2 Clone Pilot paper bag (sw1402)"
+    },
+    {
+      "sw_kod": "sw0002b",
+      "nazev": "Boba Fett - Classic Grays"
+    },
+    {
+      "sw_kod": "sw0005a",
+      "nazev": "Imperial Scout Trooper - Plain Black Head, Dark Bluish Gray Torso Print"
+    },
+    {
+      "sw_kod": "sw0005b",
+      "nazev": "Imperial Scout Trooper - Printed Black Head, Dark Bluish Gray Torso Print"
+    },
+    {
+      "sw_kod": "sw0040",
+      "nazev": "Imperial Royal Guard - Red Hands"
+    },
+    {
+      "sw_kod": "sw0075",
+      "nazev": "Gamorrean Guard - Sand Green, Dark Gray Arms"
+    },
+    {
+      "sw_kod": "sw0099",
+      "nazev": "Anakin Skywalker (Padawan) - Yellow Head, Cape"
+    },
+    {
+      "sw_kod": "sw0115",
+      "nazev": "Snowtrooper, Light Bluish Gray Hips, White Hands (Hoth Stormtrooper)"
+    },
+    {
+      "sw_kod": "sw0156",
+      "nazev": "Mouse Droid (MSE-6-series Repair Droid) / Black - Dark Bluish Gray"
+    },
+    {
+      "sw_kod": "sw0166a",
+      "nazev": "Imperial Shadow Trooper - Short Line on Back"
+    },
+    {
+      "sw_kod": "sw0180",
+      "nazev": "Darth Vader (Battle Damaged)"
+    },
+    {
+      "sw_kod": "sw0188",
+      "nazev": "Imperial Stormtrooper - Black Head, Dotted Mouth Helmet"
+    },
+    {
+      "sw_kod": "sw0192",
+      "nazev": "Ahsoka Tano (Padawan) - Tube Top and Belt"
+    },
+    {
+      "sw_kod": "sw0194",
+      "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 1) - Dark Bluish Gray Visor, Pauldron, and Kama, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0209",
+      "nazev": "Darth Vader (Death Star Torso)"
+    },
+    {
+      "sw_kod": "sw0210",
+      "nazev": "Emperor Palpatine - Light Bluish Gray Head, Black Hands"
+    },
+    {
+      "sw_kod": "sw0220",
+      "nazev": "Mace Windu - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0221",
+      "nazev": "Clone Trooper Gunner (Phase 1) - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0224",
+      "nazev": "Count Dooku - Light Bluish Gray Swept Back Hair, Reddish Brown Cape, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0226",
+      "nazev": "Nahdar Vebb"
+    },
+    {
+      "sw_kod": "sw0242",
+      "nazev": "Nute Gunray - Dark Red Outfit, Dark Bluish Gray Headgear"
+    },
+    {
+      "sw_kod": "sw0243",
+      "nazev": "Chancellor Palpatine - Red Outfit, Dark Red Pauldrons, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0245",
+      "nazev": "Turk Falso"
+    },
+    {
+      "sw_kod": "sw0247",
+      "nazev": "Admiral Ackbar - White Spacesuit"
+    },
+    {
+      "sw_kod": "sw0249",
+      "nazev": "Mon Mothma"
+    },
+    {
+      "sw_kod": "sw0262",
+      "nazev": "AT-AT Driver - Red Imperial Logo, Bluish Grays, Black Head, Stormtrooper Type 2 Helmet"
+    },
+    {
+      "sw_kod": "sw0264",
+      "nazev": "Thi-Sen (Talz Chieftain)"
+    },
+    {
+      "sw_kod": "sw0269",
+      "nazev": "Barriss Offee - Black Cape, Hood and Legs"
+    },
+    {
+      "sw_kod": "sw0274",
+      "nazev": "Obi-Wan Kenobi - Old, Light Bluish Gray Hair and Beard, Eyes with Glints"
+    },
+    {
+      "sw_kod": "sw0296",
+      "nazev": "Mandalorian Death Watch Warrior"
+    },
+    {
+      "sw_kod": "sw0297",
+      "nazev": "Clone ARF Trooper Razor/ Stak, 91st Mobile Reconnaissance Corps Lightning Squadron (Phase 1) - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0298",
+      "nazev": "Clone Trooper, Horn Company (Phase 1) - Sand Green and Lime Markings, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0299",
+      "nazev": "Clone Bomb Squad Trooper (Phase 1) - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0301",
+      "nazev": "Jar Jar Binks (Printed Head)"
+    },
+    {
+      "sw_kod": "sw0302",
+      "nazev": "Gungan Soldier - Dark Brown Vest, Dark Tan Legs, Printed Head"
+    },
+    {
+      "sw_kod": "sw0304",
+      "nazev": "Imperial V-wing Pilot "
+    },
+    {
+      "sw_kod": "sw0306",
+      "nazev": "Aurra Sing - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0307",
+      "nazev": "Embo"
+    },
+    {
+      "sw_kod": "sw0308",
+      "nazev": "Saesee Tiin - Dark Brown Robe, White Arms, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0317",
+      "nazev": "Anakin Skywalker - Large Eyes, Dark Brown Arms"
+    },
+    {
+      "sw_kod": "sw0318",
+      "nazev": "Asajj Ventress - Black Torso"
+    },
+    {
+      "sw_kod": "sw0320",
+      "nazev": "Geonosian - Dark Tan"
+    },
+    {
+      "sw_kod": "sw0325",
+      "nazev": "Watto - Printed Head, Dark Bluish Gray Hands"
+    },
+    {
+      "sw_kod": "sw0335",
+      "nazev": "Luke Skywalker (Tatooine, Gray Visor on Reverse of Head)"
+    },
+    {
+      "sw_kod": "sw0338",
+      "nazev": "Logray (Ewok)"
+    },
+    {
+      "sw_kod": "sw0340",
+      "nazev": "Naboo Fighter Pilot - Red Jumpsuit"
+    },
+    {
+      "sw_kod": "sw0362",
+      "nazev": "Obi-Wan Kenobi (Dark Tan Legs)"
+    },
+    {
+      "sw_kod": "sw0363",
+      "nazev": "Nute Gunray - Dark Orange Robe, Dark Red Headgear"
+    },
+    {
+      "sw_kod": "sw0366",
+      "nazev": "Imperial Stormtrooper - Printed Black Head, Dotted Mouth Helmet, Detailed Armor"
+    },
+    {
+      "sw_kod": "sw0367",
+      "nazev": "Endor Rebel Commando - Dark Tan Vest"
+    },
+    {
+      "sw_kod": "sw0377",
+      "nazev": "Clone ARC Trooper Hammer, Rancor Battalion (Phase 2) - Dark Red Cloth Pauldron, Black Cloth Kama, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0379",
+      "nazev": "Barriss Offee - Dark Blue Cape and Hood, Black Legs.pngzakoupeno: 03.03.2026 (aukro)"
+    },
+    {
+      "sw_kod": "sw0380",
+      "nazev": "Clone Trooper Commander Gree, 41st Elite Corps (Phase 1) - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0387",
+      "nazev": "Queen Amidala"
+    },
+    {
+      "sw_kod": "sw0389",
+      "nazev": "Satele Shan"
+    },
+    {
+      "sw_kod": "sw0392",
+      "nazev": "Even Piell"
+    },
+    {
+      "sw_kod": "sw0395",
+      "nazev": "Luke Skywalker (Dark Bluish Gray Jedi Robe)"
+    },
+    {
+      "sw_kod": "sw0396",
+      "nazev": "Boba Fett - Head Beard Stubble"
+    },
+    {
+      "sw_kod": "sw0398",
+      "nazev": "Lando Calrissian - Skiff Guard, Tan Hips"
+    },
+    {
+      "sw_kod": "sw0400",
+      "nazev": "Lobot - Light Bluish Gray Uniform, Light Nougat Head, Black Eyebrows"
+    },
+    {
+      "sw_kod": "sw0407",
+      "nazev": "Boushh"
+    },
+    {
+      "sw_kod": "sw0409",
+      "nazev": "Obi-Wan Kenobi (Breathing Apparatus)"
+    },
+    {
+      "sw_kod": "sw0410",
+      "nazev": "Qui-Gon Jinn (Breathing Apparatus)"
+    },
+    {
+      "sw_kod": "sw0413",
+      "nazev": "Darth Malgus"
+    },
+    {
+      "sw_kod": "sw0417",
+      "nazev": "Mace Windu (Cape)"
+    },
+    {
+      "sw_kod": "sw0418",
+      "nazev": "Chancellor Palpatine - Dark Red Outfit, Legs, Tan Hair"
+    },
+    {
+      "sw_kod": "sw0443",
+      "nazev": "Sith Trooper - Black Armor, Printed Legs"
+    },
+    {
+      "sw_kod": "sw0450",
+      "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 2) - Blue Cloth Pauldron, Black Cloth Kama, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0451",
+      "nazev": "Han Solo - Black Vest with Pockets over Tan Shirt with Dark Tan Creases, Reddish Brown Legs with Belts"
+    },
+    {
+      "sw_kod": "sw0468",
+      "nazev": "Jango Fett - Light Nougat Head, Smile"
+    },
+    {
+      "sw_kod": "sw0479",
+      "nazev": "Mace Windu (White Legs)"
+    },
+    {
+      "sw_kod": "sw0480",
+      "nazev": "Coleman Trebor"
+    },
+    {
+      "sw_kod": "sw0483",
+      "nazev": "Ree-Yees"
+    },
+    {
+      "sw_kod": "sw0486",
+      "nazev": "Max Rebo"
+    },
+    {
+      "sw_kod": "sw0488",
+      "nazev": "Anakin Skywalker (Padawan, Combed Hair)"
+    },
+    {
+      "sw_kod": "sw0493",
+      "nazev": "Darth Maul - Mechanical Legs"
+    },
+    {
+      "sw_kod": "sw0499",
+      "nazev": "Sith Warrior"
+    },
+    {
+      "sw_kod": "sw0500",
+      "nazev": "Jedi Knight (Kao Cen Darach)"
+    },
+    {
+      "sw_kod": "sw0510",
+      "nazev": "Teebo (Ewok)"
+    },
+    {
+      "sw_kod": "sw0514",
+      "nazev": "Boba Fett, Young - Dark Azure Shirt"
+    },
+    {
+      "sw_kod": "sw0519",
+      "nazev": "Clone Trooper, 41st Elite Corps (Phase 2) - Kashyyyk Camouflage, Scowl"
+    },
+    {
+      "sw_kod": "sw0523",
+      "nazev": "Clone Airborne Trooper, 212th Attack Battalion (Phase 2) - Orange Arm, Dirt Stains, Light Bluish Gray Cloth Kama, Scowl"
+    },
+    {
+      "sw_kod": "sw0526",
+      "nazev": "Anakin Skywalker (Dark Brown Legs, Headset)"
+    },
+    {
+      "sw_kod": "sw0527",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Red Dots and Small Receptor"
+    },
+    {
+      "sw_kod": "sw0530",
+      "nazev": "Chief Tarfful"
+    },
+    {
+      "sw_kod": "sw0544",
+      "nazev": "Rebel Pilot X-wing (Theron Nett)"
+    },
+    {
+      "sw_kod": "sw0552",
+      "nazev": "Obi-Wan Kenobi (Dark Brown Hooded Coat)"
+    },
+    {
+      "sw_kod": "sw0554",
+      "nazev": "Bith Musician"
+    },
+    {
+      "sw_kod": "sw0556",
+      "nazev": "Ten Numb (Red Jumpsuit)"
+    },
+    {
+      "sw_kod": "sw0558",
+      "nazev": "Gray Squadron Pilot (Horton Salm)"
+    },
+    {
+      "sw_kod": "sw0566",
+      "nazev": "Luke Skywalker (Tatooine) - 2014 version"
+    },
+    {
+      "sw_kod": "sw0576",
+      "nazev": "Hera Syndulla - Dark Tan Arms"
+    },
+    {
+      "sw_kod": "sw0602",
+      "nazev": "Kanan Jarrus - Dark Brown Hair and Eyebrows"
+    },
+    {
+      "sw_kod": "sw0603",
+      "nazev": "Imperial Shadow Stormtrooper"
+    },
+    {
+      "sw_kod": "sw0604",
+      "nazev": "Shadow Guard"
+    },
+    {
+      "sw_kod": "sw0605",
+      "nazev": "Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk"
+    },
+    {
+      "sw_kod": "sw0606",
+      "nazev": "Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl"
+    },
+    {
+      "sw_kod": "sw0612",
+      "nazev": "Han Solo - White Shirt with Wrinkles on Front, Reddish Brown Legs, Dual Sided Head, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw0614",
+      "nazev": "Senate Commando - Printed Legs"
+    },
+    {
+      "sw_kod": "sw0622",
+      "nazev": "The Grand Inquisitor - Dark Bluish Gray Uniform"
+    },
+    {
+      "sw_kod": "sw0624",
+      "nazev": "AT-DP Pilot (Imperial Combat Driver - White Uniform)"
+    },
+    {
+      "sw_kod": "sw0631",
+      "nazev": "Boba Fett - White, Detailed Pattern"
+    },
+    {
+      "sw_kod": "sw0634",
+      "nazev": "Emperor Palpatine"
+    },
+    {
+      "sw_kod": "sw0635",
+      "nazev": "Luke Skywalker - Jedi Master, Dark Tan Smooth Hair"
+    },
+    {
+      "sw_kod": "sw0638",
+      "nazev": "Naboo Security Officer - Reddish Brown and Sand Blue Uniform, Light Nougat Head, Hat with Neck Protector"
+    },
+    {
+      "sw_kod": "sw0643",
+      "nazev": "Princess Leia - Endor Outfit, Dark Tan Jacket, Camouflage Cape, Sand Blue Legs"
+    },
+    {
+      "sw_kod": "sw0655",
+      "nazev": "Unkar's Thug"
+    },
+    {
+      "sw_kod": "sw0658",
+      "nazev": "Poe Dameron (Pilot Jumpsuit, Helmet)"
+    },
+    {
+      "sw_kod": "sw0660",
+      "nazev": "Resistance Ground Crew (Goss Toowers)"
+    },
+    {
+      "sw_kod": "sw0661",
+      "nazev": "BB-8 (Small Photoreceptor and Small Black Circle)"
+    },
+    {
+      "sw_kod": "sw0671",
+      "nazev": "First Order Crew Member (Fleet Engineer - Gunner) - Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw0673",
+      "nazev": "Kanjiklub Gang Member (Crokind Shand)"
+    },
+    {
+      "sw_kod": "sw0676",
+      "nazev": "Finn - Medium Nougat Jacket, Black Legs"
+    },
+    {
+      "sw_kod": "sw0677",
+      "nazev": "Rey - Dark Tan Tied Robe"
+    },
+    {
+      "sw_kod": "sw0685",
+      "nazev": "Yoda - Clone Wars, White Hair"
+    },
+    {
+      "sw_kod": "sw0687",
+      "nazev": "Rodian Alliance Fighter"
+    },
+    {
+      "sw_kod": "sw0697",
+      "nazev": "Resistance Trooper - Dark Tan Jacket, Frown, Furrowed Eyebrows"
+    },
+    {
+      "sw_kod": "sw0698",
+      "nazev": "Resistance Trooper - Tan Jacket, Frown, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw0699",
+      "nazev": "Resistance Officer - Headset"
+    },
+    {
+      "sw_kod": "sw0704",
+      "nazev": "Obi-Wan Kenobi (Headset)"
+    },
+    {
+      "sw_kod": "sw0705",
+      "nazev": "Resistance Pilot X-wing (Temmin 'Snap' Wexley)"
+    },
+    {
+      "sw_kod": "sw0719",
+      "nazev": "Admiral Ackbar - Medium Nougat Robe"
+    },
+    {
+      "sw_kod": "sw0739",
+      "nazev": "Unkar Plutt"
+    },
+    {
+      "sw_kod": "sw0742",
+      "nazev": "Sabine Wren - Bright Green and Dark Blue Hair"
+    },
+    {
+      "sw_kod": "sw0745",
+      "nazev": "Luminara Unduli - Dark Brown Headgear, Cape"
+    },
+    {
+      "sw_kod": "sw0747",
+      "nazev": "Imperial Inquisitor Fifth Brother - Dark Bluish Gray Uniform"
+    },
+    {
+      "sw_kod": "sw0749",
+      "nazev": "Captain Rex - Old"
+    },
+    {
+      "sw_kod": "sw0750",
+      "nazev": "Commander Wolffe - Old"
+    },
+    {
+      "sw_kod": "sw0751",
+      "nazev": "Dengar - White Torso, Wrapzakoupeno: 23.04.2026 (aukro)"
+    },
+    {
+      "sw_kod": "sw0752",
+      "nazev": "Naare"
+    },
+    {
+      "sw_kod": "sw0754",
+      "nazev": "Zander - Sand Blue Jacket"
+    },
+    {
+      "sw_kod": "sw0757",
+      "nazev": "Rebel Pilot A-wing (Open Helmet, Red Jumpsuit)"
+    },
+    {
+      "sw_kod": "sw0760",
+      "nazev": "Hoth Rebel Trooper White Uniform (Moustache)"
+    },
+    {
+      "sw_kod": "sw0764",
+      "nazev": "Snowtrooper, Light Bluish Gray Hips, Light Bluish Gray Hands - Backpack attached to Neck Bracket with Plate, Modified w Clip Ring"
+    },
+    {
+      "sw_kod": "sw0766",
+      "nazev": "Silver Protocol Droid (U-3PO)"
+    },
+    {
+      "sw_kod": "sw0770",
+      "nazev": "Grand Moff Wilhuff Tarkin - Dark Bluish Gray Uniform, Swept Back Hair, Black Eyebrows"
+    },
+    {
+      "sw_kod": "sw0771",
+      "nazev": "Han Solo - Black Vest with Pockets over Tan Shirt with Dark Tan Creases, Dark Blue Legs with Belts, Wavy Hair"
+    },
+    {
+      "sw_kod": "sw0808",
+      "nazev": "Darth Maul - Horns, Printed Legs, Open Mouth"
+    },
+    {
+      "sw_kod": "sw0811",
+      "nazev": "Grand Admiral Thrawn - Dark Azure Skin"
+    },
+    {
+      "sw_kod": "sw0812",
+      "nazev": "Obi-Wan Kenobi (Young, Printed Legs, without Cape)"
+    },
+    {
+      "sw_kod": "sw0816",
+      "nazev": "Admiral Raddus"
+    },
+    {
+      "sw_kod": "sw0821",
+      "nazev": "Weequay Skiff Guard (Rintel Aren)"
+    },
+    {
+      "sw_kod": "sw0828",
+      "nazev": "Bossk - Olive Green"
+    },
+    {
+      "sw_kod": "sw0829",
+      "nazev": "Anakin Skywalker - Transformation Process"
+    },
+    {
+      "sw_kod": "sw0833",
+      "nazev": "Aayla Secura - Dark Pink Lips"
+    },
+    {
+      "sw_kod": "sw0839",
+      "nazev": "Guavian Security Soldier"
+    },
+    {
+      "sw_kod": "sw0841",
+      "nazev": "Han Solo, Old"
+    },
+    {
+      "sw_kod": "sw0842",
+      "nazev": "First Order Heavy Assault Stormtrooper (Rounded Mouth Pattern) - Backpack"
+    },
+    {
+      "sw_kod": "sw0859",
+      "nazev": "Kylo Ren (Cape)"
+    },
+    {
+      "sw_kod": "sw0875",
+      "nazev": "First Order Snowtrooper without Backpack"
+    },
+    {
+      "sw_kod": "sw0878",
+      "nazev": "Princess Leia - Hoth Outfit, White Jacket, Smile - Breathing Mask"
+    },
+    {
+      "sw_kod": "sw0879",
+      "nazev": "Han Solo, Dark Brown Legs with Holster Pattern, Dark Blue Jacket, Wavy Hair"
+    },
+    {
+      "sw_kod": "sw0882",
+      "nazev": "Sandspeeder Pilot"
+    },
+    {
+      "sw_kod": "sw0886",
+      "nazev": "First Order Stormtrooper Executioner"
+    },
+    {
+      "sw_kod": "sw0893",
+      "nazev": "Wuher"
+    },
+    {
+      "sw_kod": "sw0897",
+      "nazev": "Jawa - Tattered Shirt"
+    },
+    {
+      "sw_kod": "sw0898",
+      "nazev": "Greedo - Medium Nougat Vest, Belt on Legs and Torso, Medium Azure Legs"
+    },
+    {
+      "sw_kod": "sw0902",
+      "nazev": "First Order TIE Pilot, Three White Lines on Helmet"
+    },
+    {
+      "sw_kod": "sw0904",
+      "nazev": "Captain Phasma (Pointed Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0905",
+      "nazev": "First Order Stormtrooper (Pointed Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0909",
+      "nazev": "Barriss Offee - Dark Blue Cape and Hood, Black Skirt"
+    },
+    {
+      "sw_kod": "sw0914",
+      "nazev": "Imperial Patrol Trooper - Male, Light Nougat Head, Scowl"
+    },
+    {
+      "sw_kod": "sw0935",
+      "nazev": "Kessel Mine Worker"
+    },
+    {
+      "sw_kod": "sw0940",
+      "nazev": "Enfys Nest"
+    },
+    {
+      "sw_kod": "sw0952",
+      "nazev": "Luke Skywalker - Pilot, Dual Molded Helmet"
+    },
+    {
+      "sw_kod": "sw0955",
+      "nazev": "Rio Durant"
+    },
+    {
+      "sw_kod": "sw0957",
+      "nazev": "Luke Skywalker (Bacta Tank Outfit, Dark Tan Hair)"
+    },
+    {
+      "sw_kod": "sw0963",
+      "nazev": "Antoc Merrick"
+    },
+    {
+      "sw_kod": "sw0987",
+      "nazev": "Inferno Squad Agent (Frown, Sunken Eyes)"
+    },
+    {
+      "sw_kod": "sw0992",
+      "nazev": "Sandtrooper Squad Leader (Captain) - Dual Molded Helmet, Orange Pauldron, Ammo Pouch, Dirt Stains, Survival Backpack"
+    },
+    {
+      "sw_kod": "sw0995",
+      "nazev": "Rebel Fleet Trooper - Male, Vest with Pockets, Light Nougat Neck"
+    },
+    {
+      "sw_kod": "sw0997b",
+      "nazev": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Light Nougat Head, Scowl"
+    },
+    {
+      "sw_kod": "sw1001",
+      "nazev": "Anakin Skywalker - Short Legs, Reddish Brown Aviator.txt"
+    },
+    {
+      "sw_kod": "sw0518",
+      "nazev": "Clone Scout Trooper, 41st Elite Corps (Phase 2) - Kashyyyk Camouflage, Scowl"
+    },
+    {
+      "sw_kod": "sw1045",
+      "nazev": "Imperial Gunner - Helmet with White Imperial Logo, Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw1046",
+      "nazev": "Obi-Wan Kenobi - Old, Dark Brown Hood and Starched Fabric Cape"
+    },
+    {
+      "sw_kod": "sw1050",
+      "nazev": "Zorii Bliss"
+    },
+    {
+      "sw_kod": "sw1054",
+      "nazev": "Rey - White Tied Robe"
+    },
+    {
+      "sw_kod": "sw1057",
+      "nazev": "The Mandalorian / Din Djarin  'Mando' / Brown Durasteel Armor"
+    },
+    {
+      "sw_kod": "sw1063",
+      "nazev": "Knight of Ren (Ap'lek)"
+    },
+    {
+      "sw_kod": "sw1064",
+      "nazev": "Knight of Ren (Ushar)"
+    },
+    {
+      "sw_kod": "sw1065",
+      "nazev": "Sith Trooper - Episode 9"
+    },
+    {
+      "sw_kod": "sw1068",
+      "nazev": "Boolio"
+    },
+    {
+      "sw_kod": "sw1073",
+      "nazev": "T-16 Skyhopper Pilot - Detailed Belts"
+    },
+    {
+      "sw_kod": "sw1074",
+      "nazev": "Tusken Raider - Dark Tan Head with Spikes, Diagonal Belt, Printed Legs"
+    },
+    {
+      "sw_kod": "sw1075",
+      "nazev": "Sith Jet Trooper"
+    },
+    {
+      "sw_kod": "sw1079",
+      "nazev": "Mandalorian Tribe Warrior - Male, Dark Brown Cape, Dark Orange Helmet"
+    },
+    {
+      "sw_kod": "sw1085",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots and Large Receptor"
+    },
+    {
+      "sw_kod": "sw1094",
+      "nazev": "Clone Trooper, 501st Legion (Phase 2) - White Arms, Nougat Head"
+    },
+    {
+      "sw_kod": "sw1104",
+      "nazev": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown"
+    },
+    {
+      "sw_kod": "sw1113",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda'"
+    },
+    {
+      "sw_kod": "sw1114",
+      "nazev": "Greef Kargaza"
+    },
+    {
+      "sw_kod": "sw1115",
+      "nazev": "IG-11"
+    },
+    {
+      "sw_kod": "sw1116",
+      "nazev": "Imperial Scout Trooper - Male, Dual Molded Helmet, Light Nougat Head, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw1124",
+      "nazev": "Ponda Baba"
+    },
+    {
+      "sw_kod": "sw1125",
+      "nazev": "Dr. Cornelius Evazan"
+    },
+    {
+      "sw_kod": "sw1126",
+      "nazev": "Labria (Kardue'sai'Malloc)"
+    },
+    {
+      "sw_kod": "sw1127",
+      "nazev": "Garindan"
+    },
+    {
+      "sw_kod": "sw1128",
+      "nazev": "Momaw Nadon"
+    },
+    {
+      "sw_kod": "sw1129",
+      "nazev": "Kabe"
+    },
+    {
+      "sw_kod": "sw1130",
+      "nazev": "Hrchek Kal Fas"
+    },
+    {
+      "sw_kod": "sw1131",
+      "nazev": "Sandtrooper (Enlisted) - Dual Molded Helmet, Black Pauldron, Ammo Pouch, Dirt Stains, Survival Backpack, Frown"
+    },
+    {
+      "sw_kod": "sw1132",
+      "nazev": "Sandtrooper Squad Leader (Captain) - Dual Molded Helmet, Orange Pauldron, Ammo Pouch, Dirt Stains, Survival Backpack, Frown"
+    },
+    {
+      "sw_kod": "sw1136",
+      "nazev": "NI-L8 Protocol Droid"
+    },
+    {
+      "sw_kod": "sw1139",
+      "nazev": "Luke Skywalker (Pilot, Printed Legs, Visor Up / Down, Askew Front Panel)"
+    },
+    {
+      "sw_kod": "sw1140",
+      "nazev": "General Jan Dodonna"
+    },
+    {
+      "sw_kod": "sw1150",
+      "nazev": "Clone Commando Tech, Experimental Unit Clone Force 99"
+    },
+    {
+      "sw_kod": "sw1156",
+      "nazev": "Greef Karga - Black Magistrate Robe and Gray Beard"
+    },
+    {
+      "sw_kod": "sw1158",
+      "nazev": "Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder"
+    },
+    {
+      "sw_kod": "sw1160",
+      "nazev": "Moff Gideon - Cape"
+    },
+    {
+      "sw_kod": "sw1161",
+      "nazev": "Dark Trooper"
+    },
+    {
+      "sw_kod": "sw1166",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Plain Head"
+    },
+    {
+      "sw_kod": "sw1175",
+      "nazev": "General Maximillian Veers - Chest Armor, Sand Blue Helmet with Goggles Pattern, Dual Molded Legs"
+    },
+    {
+      "sw_kod": "sw1176",
+      "nazev": "AT-AT Driver - Dark Red Imperial Logo, Female"
+    },
+    {
+      "sw_kod": "sw1177",
+      "nazev": "Snowtrooper Commander, Printed Legs, Dark Tan Hands"
+    },
+    {
+      "sw_kod": "sw1178",
+      "nazev": "Snowtrooper - Female, Printed Legs, Dark Tan Hands, Light Nougat Head, Angry Smile"
+    },
+    {
+      "sw_kod": "sw1179",
+      "nazev": "Snowtrooper - Male, Printed Legs, Dark Tan Hands, Reddish Brown Head, Grimace"
+    },
+    {
+      "sw_kod": "sw1180",
+      "nazev": "Snowtrooper - Female, Printed Legs, Dark Tan Hands, Reddish Brown Head, Open Mouth Smirk"
+    },
+    {
+      "sw_kod": "sw1181",
+      "nazev": "Snowtrooper, Printed Legs, Dark Tan Hands, Cheek Lines, Lopsided Grin"
+    },
+    {
+      "sw_kod": "sw1201",
+      "nazev": "C-3PO - Printed Legs, Toes and Arms, Bright Light Yellow Eyes"
+    },
+    {
+      "sw_kod": "sw1204",
+      "nazev": "Han Solo - Stormtrooper Outfit, Printed Legs, Shoulder Belts, Open Mouth Smile  Determined"
+    },
+    {
+      "sw_kod": "sw1207",
+      "nazev": "Clone Trooper, 187th Legion (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw1208",
+      "nazev": "Aunt Beru Whitesun Lars"
+    },
+    {
+      "sw_kod": "sw1209",
+      "nazev": "C-3PO - Molded Light Bluish Gray Lower Leg, Printed Arms"
+    },
+    {
+      "sw_kod": "sw1213",
+      "nazev": "BD-1 (6405239)"
+    },
+    {
+      "sw_kod": "sw1216",
+      "nazev": "Taun We"
+    },
+    {
+      "sw_kod": "sw1219",
+      "nazev": "Cad Bane - Pearl Dark Gray Head"
+    },
+    {
+      "sw_kod": "sw1220",
+      "nazev": "Obi-Wan Kenobi - Reddish Brown Robe, Dark Orange Mid-Length Tousled with Center Part Hair"
+    },
+    {
+      "sw_kod": "sw1221",
+      "nazev": "Astromech Droid, R4-P17 - Silver Band Around Dome, Dark Bluish Gray Rectangles"
+    },
+    {
+      "sw_kod": "sw1224",
+      "nazev": "Ben Kenobi"
+    },
+    {
+      "sw_kod": "sw1231",
+      "nazev": "Cassian Andor - Dark Brown Jacket"
+    },
+    {
+      "sw_kod": "sw1233",
+      "nazev": "Clone Trooper Commander Cody, 212th Attack Battalion (Phase 2) - Orange Visor, Nougat Head, Helmet with Holes, Printed Legs"
+    },
+    {
+      "sw_kod": "sw1242",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Brown Durasteel Armor, Printed Arms"
+    },
+    {
+      "sw_kod": "sw1243",
+      "nazev": "The Mythrol"
+    },
+    {
+      "sw_kod": "sw1244",
+      "nazev": "Kuiil - Backpack"
+    },
+    {
+      "sw_kod": "sw1246",
+      "nazev": " Clone Trooper Officer, 501st Legion (Phase 2) - White Arms, Blue Rangefinder, Nougat Head, Helmet with Holes"
+    },
+    {
+      "sw_kod": "sw1247",
+      "nazev": "Clone Heavy Trooper, 501st Legion (Phase 2) - White Arms, Blue Visor, Backpack, Nougat Head, Helmet with Holes"
+    },
+    {
+      "sw_kod": "sw1248",
+      "nazev": "Clone Trooper Specialist, 501st Legion (Phase 2) - Blue Arms, Macrobinoculars, Nougat Head, Helmet with Holes"
+    },
+    {
+      "sw_kod": "sw1249",
+      "nazev": "Darth Vader - Printed Arms, Spongy Cape, White Head with Frown"
+    },
+    {
+      "sw_kod": "sw1257",
+      "nazev": "Vane"
+    },
+    {
+      "sw_kod": "sw1260",
+      "nazev": "Imperial TIE Fighter - Interceptor Pilot - Female, Nougat Head"
+    },
+    {
+      "sw_kod": "sw1263",
+      "nazev": "Emperor Palpatine - Spongy Cape, Hood Basic, Yellow Eyes"
+    },
+    {
+      "sw_kod": "sw1265",
+      "nazev": "Imperial Scout Trooper - Male, Dual Molded Helmet, Light Nougat Head, Dark Brown Eyebrows, Frown"
+    },
+    {
+      "sw_kod": "sw1274",
+      "nazev": "Boba Fett - Helmet, Jet Pack, Printed Arms and Legs, Rangefinder"
+    },
+    {
+      "sw_kod": "sw1278",
+      "nazev": "Clone Trooper, 501st Legion, 332nd Company (Phase 2) - Helmet with Holes and Togruta Markings"
+    },
+    {
+      "sw_kod": "sw1296",
+      "nazev": "Princess Leia - Endor Outfit, Olive Green Camouflage, Braided Hair"
+    },
+    {
+      "sw_kod": "sw1297",
+      "nazev": "Emperor Palpatine - Holiday Sweater"
+    },
+    {
+      "sw_kod": "sw1305",
+      "nazev": "Clone Shock Trooper, Coruscant Guard (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw1315",
+      "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 2) - Blue Cloth Pauldron, Rangefinder, Printed White Arms"
+    },
+    {
+      "sw_kod": "sw1319",
+      "nazev": "Clone Trooper (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw1325",
+      "nazev": "Darth Malak"
+    },
+    {
+      "sw_kod": "sw1326",
+      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head"
+    },
+    {
+      "sw_kod": "sw1328",
+      "nazev": "Captain Antilles - Dark Tan Shirt"
+    },
+    {
+      "sw_kod": "sw1329",
+      "nazev": "Clone ARC Trooper Fives, 501st Legion (Phase 2)"
+    },
+    {
+      "sw_kod": "sw1330",
+      "nazev": "Darth Maul - 25 Years of LEGO Star Wars Torso"
+    },
+    {
+      "sw_kod": "sw1332",
+      "nazev": "Anakin Skywalker - Short Legs, Thick Messy Hair "
+    },
+    {
+      "sw_kod": "sw1333",
+      "nazev": "Darth Maul - Horns, Printed Legs, Closed Mouth"
+    },
+    {
+      "sw_kod": "sw1334b",
+      "nazev": "Qui-Gon Jinn - Dark Brown Legs, Poncho, Dark Brown Beard"
+    },
+    {
+      "sw_kod": "sw1335",
+      "nazev": "Saw Gerrera"
+    },
+    {
+      "sw_kod": "sw1342",
+      "nazev": "Moff Gideon - Helmet, Jet Pack"
+    },
+    {
+      "sw_kod": "sw1343",
+      "nazev": "Imperial Praetorian Guard"
+    },
+    {
+      "sw_kod": "sw1345",
+      "nazev": "Mandalorian Warrior"
+    },
+    {
+      "sw_kod": "sw1349",
+      "nazev": "Wim"
+    },
+    {
+      "sw_kod": "sw1350",
+      "nazev": "Neel"
+    },
+    {
+      "sw_kod": "sw1351",
+      "nazev": "Fern"
+    },
+    {
+      "sw_kod": "sw1352",
+      "nazev": "KB"
+    },
+    {
+      "sw_kod": "sw1353",
+      "nazev": "Jod"
+    },
+    {
+      "sw_kod": "sw1354",
+      "nazev": "Ahsoka Tano (Adult) - Dark Bluish Gray Vest, Tan Tunic, Printed Arms, Light Bluish Gray Legs"
+    },
+    {
+      "sw_kod": "sw1355",
+      "nazev": "Ezra Bridger - Dark Red Robe"
+    },
+    {
+      "sw_kod": "sw1357",
+      "nazev": "Morgan Elsbeth - Black Legs"
+    },
+    {
+      "sw_kod": "sw1358",
+      "nazev": "Night Trooper - White Helmet"
+    },
+    {
+      "sw_kod": "sw1364",
+      "nazev": "Rey - Black Dress, Hood and Cape (Darth Rey)"
+    },
+    {
+      "sw_kod": "sw1365",
+      "nazev": "Beach Luke"
+    },
+    {
+      "sw_kod": "sw1366",
+      "nazev": "Darth Dev (Darth Devastator) - Cape"
+    },
+    {
+      "sw_kod": "sw1367",
+      "nazev": "Darth Jar Jar"
+    },
+    {
+      "sw_kod": "sw1368",
+      "nazev": "Bounty Hunter C-3PO"
+    },
+    {
+      "sw_kod": "sw1369",
+      "nazev": "Lando Calrissian - Skiff Guard, Dark Brown Printed Legs"
+    },
+    {
+      "sw_kod": "sw1370",
+      "nazev": "Luke Skywalker - Dark Bluish Gray Jedi Robe, Printed Legs, Hair with Side Part"
+    },
+    {
+      "sw_kod": "sw1372",
+      "nazev": "Nien Nunb"
+    },
+    {
+      "sw_kod": "sw1373",
+      "nazev": "Imperial Crew - Black Cap, Open Mouth"
+    },
+    {
+      "sw_kod": "sw1375",
+      "nazev": "Imperial Navy Trooper - Medium Tan Head"
+    },
+    {
+      "sw_kod": "sw1379",
+      "nazev": "Jedi Bob (Bobarian Afol) - Dark Bluish Gray Tunic, Reddish Brown Hood and Cape"
+    },
+    {
+      "sw_kod": "sw1384",
+      "nazev": "Wooof"
+    },
+    {
+      "sw_kod": "sw1386",
+      "nazev": "Kithaba (Klatooinian Skiff Guard) - Medium Nougat Vest"
+    },
+    {
+      "sw_kod": "sw1387",
+      "nazev": "Salacious B. Crumb - Yellow Eyes with White Glints (6488557)"
+    },
+    {
+      "sw_kod": "sw1388",
+      "nazev": "Jabba the Hutt - Olive Green, Tan Face, Dark Bluish Gray Wrinkles"
+    },
+    {
+      "sw_kod": "sw1389",
+      "nazev": "Princess Leia - Jabba Slave Outfit, Dark Brown Braid over Shoulder, Neck Bracket"
+    },
+    {
+      "sw_kod": "sw1390",
+      "nazev": "Vizam"
+    },
+    {
+      "sw_kod": "sw1405",
+      "nazev": "Emperor Palpatine - Black and Red Robe"
+    },
+    {
+      "sw_kod": "sw1407",
+      "nazev": "Boba Fett, Young - Bright Light Blue Shirt"
+    },
+    {
+      "sw_kod": "sw1409",
+      "nazev": "ISB Tactical Agent"
+    },
+    {
+      "sw_kod": "sw1410",
+      "nazev": "Cassian Andor - Reddish Brown Vest"
+    },
+    {
+      "sw_kod": "sw1411",
+      "nazev": "Dedra Meero"
+    },
+    {
+      "sw_kod": "sw1412",
+      "nazev": "K-2SO Droid - Dark Silver Chest Panel"
+    },
+    {
+      "sw_kod": "sw1415",
+      "nazev": "Darth Maul - Printed Legs with Silver Armor, Eyes without Black Pupils"
+    },
+    {
+      "sw_kod": "sw1416",
+      "nazev": "Imperial Death Trooper - Dark Tan Head"
+    },
+    {
+      "sw_kod": "sw1421",
+      "nazev": "Dwarf Spider Droid - Light Bluish Gray Dome, Lightsaber Hilt"
+    },
+    {
+      "sw_kod": "sw1423",
+      "nazev": "Clone Trooper, 327th Star Corps (Phase 2) - Nougat Head, Rangefinder"
+    },
+    {
+      "sw_kod": "sw1426",
+      "nazev": "Asajj Ventress - Dark Purple Torso"
+    },
+    {
+      "sw_kod": "sw1431",
+      "nazev": "Clone Commander Bacara"
+    },
+    {
+      "sw_kod": "sw1432",
+      "nazev": "Ki-Adi-Mundi - Printed Legs, Straight Beltzakoupeno: 11.4.2026"
+    },
+    {
+      "sw_kod": "sw1433",
+      "nazev": "Jango Fett - Nougat Head, Plain Arms"
+    },
+    {
+      "sw_kod": "sw1434",
+      "nazev": "Lama Su"
+    },
+    {
+      "sw_kod": "sw1453",
+      "nazev": "Luke Skywalker - Tatooine, Dark Tan Hair"
+    },
+    {
+      "sw_kod": "sw1454",
+      "nazev": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Umber Head"
+    },
+    {
+      "sw_kod": "sw1455",
+      "nazev": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Nougat Head"
+    },
+    {
+      "sw_kod": "sw1457",
+      "nazev": "Han Solo - Black Vest with Pockets over Tan Shirt with Dark Bluish Gray Creases, Dark Blue Legs with Belts"
+    },
+    {
+      "sw_kod": "sw1458",
+      "nazev": "Han Solo - Stormtrooper Outfit, Printed Legs, Shoulder Belts, Smile - Angry"
+    },
+    {
+      "sw_kod": "sw1459",
+      "nazev": "Princess Leia - White Dress, Detailed Belt with 5 Emblems"
+    },
+    {
+      "sw_kod": "sw1460",
+      "nazev": "Luke Skywalker - Stormtrooper Outfit, Printed Legs, Dark Tan Hair, Smile with Crease / Frown"
+    },
+    {
+      "sw_kod": "sw1461",
+      "nazev": "Interrogation Droid - Syringe and Wand"
+    },
+    {
+      "sw_kod": "sw1462",
+      "nazev": "Imperial Crew - Black Cap with Tan Hair"
+    },
+    {
+      "sw_kod": "sw1463",
+      "nazev": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Tan Head"
+    },
+    {
+      "sw_kod": "sw1464",
+      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Sienna Head"
+    },
+    {
+      "sw_kod": "sw1465",
+      "nazev": "Imperial Navy Officer - Black Cap with Reddish Brown Hair"
+    },
+    {
+      "sw_kod": "sw1466",
+      "nazev": "Astromech Droid, R3-T6"
+    },
+    {
+      "sw_kod": "sw1467",
+      "nazev": "Obi-Wan Kenobi - Old, Dark Brown Hood and Spongy Cape"
+    },
+    {
+      "sw_kod": "sw1468",
+      "nazev": "Admiral Conan Antonio Motti"
+    },
+    {
+      "sw_kod": "sw1469",
+      "nazev": "General Tagge"
+    },
+    {
+      "sw_kod": "sw1470",
+      "nazev": "Admiral Wullf Yularen - White Uniform, White Swept Back Hair (Colonel)"
+    },
+    {
+      "sw_kod": "sw1471",
+      "nazev": "Grand Moff Wilhuff Tarkin - Dark Bluish Gray Uniform, Swept Back Hair, Dark Bluish Gray Eyebrows"
+    },
+    {
+      "sw_kod": "sw1473",
+      "nazev": "5D6-RA-7 Protocol Droid"
+    },
+    {
+      "sw_kod": "sw1474",
+      "nazev": "Imperial Gunner - Helmet with White Imperial Logo, Reddish Brown Head"
+    },
+    {
+      "sw_kod": "sw1475",
+      "nazev": "Imperial Navy Trooper - Reddish Brown Head"
+    },
+    {
+      "sw_kod": "sw1476",
+      "nazev": "Luke Skywalker - Jedi, Hair with Side Part, Smile with Crease / Frown"
+    },
+    {
+      "sw_kod": "sw1477",
+      "nazev": "Imperial Dignitary"
+    },
+    {
+      "sw_kod": "sw1478",
+      "nazev": "Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back, Spongy Cape"
+    },
+    {
+      "sw_kod": "sw1479",
+      "nazev": "Hot Tub Stormtrooper"
+    },
+    {
+      "sw_kod": "sw1480",
+      "nazev": "Imperial Shuttle Pilot - Medium Nougat Head, Imperial Officer Cap"
+    },
+    {
+      "sw_kod": "sw1481",
+      "nazev": "Galen Erso"
+    },
+    {
+      "sw_kod": "sw1482",
+      "nazev": "Director Orson Callan Krennic - Belt with Pouch"
+    },
+    {
+      "sw_kod": "sw1483",
+      "nazev": "Darth Vader - Gingerbread"
+    },
+    {
+      "sw_kod": "sw1486",
+      "nazev": "Mandalorian Super Commando - Printed Legs, Male"
+    },
+    {
+      "sw_kod": "sw1487",
+      "nazev": "Mandalorian Super Commando - Printed Legs, Female"
+    },
+    {
+      "sw_kod": "sw1488",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head"
+    },
+    {
+      "sw_kod": "sw1378",
+      "nazev": "Ackbar Trooper"
+    },
+    {
+      "sw_kod": "sw1096",
+      "nazev": "Ahsoka Tano (Adult) - Dark Blue Jumpsuit"
+    },
+    {
+      "sw_kod": "sw1058",
+      "nazev": "Carasynthia 'Cara' Dune"
+    },
+    {
+      "sw_kod": "sw1093",
+      "nazev": "Clone Jet Trooper, 501st Legion (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw0837",
+      "nazev": "Clone Trooper Gunner (Phase 2) - Scowl"
+    },
+    {
+      "sw_kod": "sw1051",
+      "nazev": "D-O"
+    },
+    {
+      "sw_kod": "sw0769",
+      "nazev": "Death Star Trooper (Imperial Navy Trooper)"
+    },
+    {
+      "sw_kod": "sw1173",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Holiday Outfit"
+    },
+    {
+      "sw_kod": "sw0989",
+      "nazev": "Elite Praetorian Guard - Flat Helmet"
+    },
+    {
+      "sw_kod": "sw0473",
+      "nazev": "FA-4 Pilot Droid"
+    },
+    {
+      "sw_kod": "sw1192",
+      "nazev": "Fennec Shand - Hair"
+    },
+    {
+      "sw_kod": "sw0667",
+      "nazev": "First Order Stormtrooper (Rounded Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0872",
+      "nazev": "First Order Stormtrooper Squad Leader (Rounded Mouth Pattern)"
+    },
+    {
+      "sw_kod": "sw0860",
+      "nazev": "First Order TIE Fighter Pilot - Two Red Stripes on Helmet"
+    },
+    {
+      "sw_kod": "sw1157",
+      "nazev": "Imperial Artillery Stormtrooper - Male, Light Nougat Head, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw0691",
+      "nazev": "Imperial Jet Pack Trooper (Jumptrooper)"
+    },
+    {
+      "sw_kod": "sw0692",
+      "nazev": "Imperial Shock Trooper"
+    },
+    {
+      "sw_kod": "sw1251",
+      "nazev": "Imperial TIE Bomber Pilot - Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw1138",
+      "nazev": "Imperial TIE Fighter Pilot - Light Nougat Head, Frown"
+    },
+    {
+      "sw_kod": "sw0543",
+      "nazev": "Imperial TIE Fighter Pilot - Light Nougat Head, Scowl, Silver Insignia on Helmet"
+    },
+    {
+      "sw_kod": "sw0621",
+      "nazev": "Imperial TIE Fighter Pilot - Rebels"
+    },
+    {
+      "sw_kod": "sw1268",
+      "nazev": "Kai Brightstar"
+    },
+    {
+      "sw_kod": "sw1336",
+      "nazev": "Kelleran Beq"
+    },
+    {
+      "sw_kod": "sw1039",
+      "nazev": "Luke Skywalker, Old (Dark Brown Robe)"
+    },
+    {
+      "sw_kod": "sw0494",
+      "nazev": "Mandalorian Super Commando - Large Sand Blue Eyes"
+    },
+    {
+      "sw_kod": "sw1172",
+      "nazev": "Paz Vizsla - Backpack with Clip"
+    },
+    {
+      "sw_kod": "sw0810",
+      "nazev": "Qui-Gon Jinn, without Cape"
+    },
+    {
+      "sw_kod": "sw0884",
+      "nazev": "Resistance Pilot A-wing (Tallissan 'Tallie' Lintra)"
+    },
+    {
+      "sw_kod": "sw0669",
+      "nazev": "Resistance Soldier, Male"
+    },
+    {
+      "sw_kod": "sw0720",
+      "nazev": "Resistance Trooper - Dark Tan Jacket, Frown, Cheek Lines"
+    },
+    {
+      "sw_kod": "sw1237",
+      "nazev": "Reva (Third Sister), Inquisitor"
+    },
+    {
+      "sw_kod": "sw1380",
+      "nazev": "Servo (SR-V0) - Gonk Droid (GNK Power Droid)"
+    },
+    {
+      "sw_kod": "sw0092",
+      "nazev": "Super Battle Droid - Pearl Dark Gray, Wide Head"
+    },
+    {
+      "sw_kod": "sw1171",
+      "nazev": "The Armorer"
+    },
+    {
+      "sw_kod": "sw1194",
+      "nazev": "Theelin Dancer"
+    },
+    {
+      "sw_kod": "sw1250",
+      "nazev": "Vice Admiral Sloane"
+    }
+  ],
+  "sets": [
+    {
+      "cislo": "75222",
+      "nazev": "Betrayal at Cloud City"
+    },
+    {
+      "cislo": "75454",
+      "nazev": "Imperial Remnant AT-AT with INT-4"
+    },
+    {
+      "cislo": "75455",
+      "nazev": "Boba Fett"
+    },
+    {
+      "cislo": "75435",
+      "nazev": "Battle of Felucia Separatist MTT"
+    },
+    {
+      "cislo": "75334",
+      "nazev": "Obi-Wan Kenobi vs. Darth Vader"
+    },
+    {
+      "cislo": "75459",
+      "nazev": "Imperial Lambda-Class Shuttle"
+    },
+    {
+      "cislo": "75460",
+      "nazev": "New Republic X-Wing Starfighter"
+    },
+    {
+      "cislo": "75447",
+      "nazev": "The Razor Crest"
+    },
+    {
+      "cislo": "75400",
+      "nazev": "Plo Koon's Jedi Starfighter Microfighter"
+    },
+    {
+      "cislo": "75437",
+      "nazev": "Cobb Vanth's Speeder"
+    },
+    {
+      "cislo": "75255",
+      "nazev": "Yoda"
+    },
+    {
+      "cislo": "75461",
+      "nazev": "Up-Scaled Darth Vader Minifigure"
+    },
+    {
+      "cislo": "75418",
+      "nazev": "Advent Calendar 2025, Star Wars"
+    },
+    {
+      "cislo": "75401",
+      "nazev": "Ahsoka's Jedi Interceptor"
+    },
+    {
+      "cislo": "40917",
+      "nazev": "The Darksaber"
+    },
+    {
+      "cislo": "40856",
+      "nazev": "The Mandalorian and Grogu: Allies & Villains"
+    },
+    {
+      "cislo": "75371",
+      "nazev": "Chewbacca"
+    },
+    {
+      "cislo": "75407",
+      "nazev": "Brick-Built Star Wars Logo"
+    },
+    {
+      "cislo": "9499",
+      "nazev": "Gungan Sub"
+    },
+    {
+      "cislo": "40806",
+      "nazev": "Gingerbread AT-AT"
+    },
+    {
+      "cislo": "75192",
+      "nazev": "Millennium Falcon - UCS {2nd edition}"
+    },
+    {
+      "cislo": "75290",
+      "nazev": "Mos Eisley Cantina"
+    },
+    {
+      "cislo": "75292",
+      "nazev": "The Razor Crest (The Mandalorian Bounty Hunter Transport)"
+    },
+    {
+      "cislo": "75308",
+      "nazev": "R2-D2"
+    },
+    {
+      "cislo": "75313",
+      "nazev": "AT-AT - UCS"
+    },
+    {
+      "cislo": "75331",
+      "nazev": "The Razor Crest - UCS"
+    },
+    {
+      "cislo": "75333",
+      "nazev": "Obi-Wan Kenobi's Jedi Starfighter"
+    },
+    {
+      "cislo": "75335",
+      "nazev": "BD-1"
+    },
+    {
+      "cislo": "75374",
+      "nazev": "The Onyx Cinder"
+    },
+    {
+      "cislo": "75379",
+      "nazev": "R2-D2"
+    },
+    {
+      "cislo": "75389",
+      "nazev": "The Dark Falcon"
+    },
+    {
+      "cislo": "75391",
+      "nazev": "Captain Rex Y-Wing Microfighter"
+    },
+    {
+      "cislo": "75398",
+      "nazev": "C-3PO"
+    },
+    {
+      "cislo": "75412",
+      "nazev": "Death Trooper & Night Trooper Battle Pack"
+    },
+    {
+      "cislo": "75413",
+      "nazev": "Republic Juggernaut"
+    },
+    {
+      "cislo": "75419",
+      "nazev": "Death Star - UCS"
+    },
+    {
+      "cislo": "75431",
+      "nazev": "327th Star Corps Clone Troopers Battle Pack"
+    },
+    {
+      "cislo": "75433",
+      "nazev": "Jango Fett's Starship"
+    },
+    {
+      "cislo": "75436",
+      "nazev": "The Mandalorian & Grogu's Speeder Bike"
+    },
+    {
+      "cislo": "75446",
+      "nazev": "Grogu (Mandalorian Apprentice)"
+    },
+    {
+      "cislo": "75449",
+      "nazev": "Siege of Mandalore Battle Pack"
+    }
+  ]
 }
