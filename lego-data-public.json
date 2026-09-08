@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-05T21:50:44.227Z",
+  "generated": "2026-09-08T17:23:01.568Z",
   "figs": [
+    {
+      "sw_kod": "sw1539",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Brown Durasteel Armor, Printed Arms, Dark Tan Mud Splotches"
+    },
+    {
+      "sw_kod": "sw1543",
+      "nazev": "Kuiil - Backpack"
+    },
+    {
+      "sw_kod": "sw1542",
+      "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Straps with Pouches"
+    },
+    {
+      "sw_kod": "sw1541",
+      "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Strap with Pouches, Necklace and Pendants (Elder)"
+    },
+    {
+      "sw_kod": "sw1540",
+      "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Strap with Pouches"
+    },
+    {
+      "sw_kod": "sw1520",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
+    },
     {
       "sw_kod": "sw1107",
       "nazev": "Emperor Palpatine - Hood Basic, Orange Eyes"
@@ -120,10 +144,6 @@
     {
       "sw_kod": "sw1519",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
-    },
-    {
-      "sw_kod": "sw1520",
-      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
     },
     {
       "sw_kod": "sw1430",
@@ -2139,6 +2159,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75453",
+      "nazev": "Offworld Sandcrawler and Mudhorn"
+    },
     {
       "cislo": "75222",
       "nazev": "Betrayal at Cloud City"
