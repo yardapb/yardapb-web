@@ -1,6 +1,18 @@
 {
-  "generated": "2026-09-08T17:23:01.568Z",
+  "generated": "2026-09-15T18:58:32.957Z",
   "figs": [
+    {
+      "sw_kod": "sw1438",
+      "nazev": "Solitus"
+    },
+    {
+      "sw_kod": "sw1437",
+      "nazev": "Sig Greebling - Reddish Brown Robe"
+    },
+    {
+      "sw_kod": "sw1436",
+      "nazev": "Darth Dev (Darth Devastator) - Vest"
+    },
     {
       "sw_kod": "sw1539",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Brown Durasteel Armor, Printed Arms, Dark Tan Mud Splotches"
@@ -2159,6 +2171,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75414",
+      "nazev": "The Force Burner Snowspeeder"
+    },
     {
       "cislo": "75453",
       "nazev": "Offworld Sandcrawler and Mudhorn"
