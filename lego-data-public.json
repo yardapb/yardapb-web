@@ -1,6 +1,38 @@
 {
-  "generated": "2026-09-15T18:58:32.957Z",
+  "generated": "2026-09-16T19:47:39.283Z",
   "figs": [
+    {
+      "sw_kod": "sw0098",
+      "nazev": "Luke Skywalker (Hoth)"
+    },
+    {
+      "sw_kod": "sw0266",
+      "nazev": "Clone Trooper Pilot (Phase 2) - Sand Blue Arms and Legs, Frown"
+    },
+    {
+      "sw_kod": "sw0265",
+      "nazev": "Clone Trooper Pilot Captain Jag (Phase 2) - Sand Blue Arms and Legs"
+    },
+    {
+      "sw_kod": "sw0055a",
+      "nazev": "Obi-Wan Kenobi (Young with Dark Orange Hair, without Headset)"
+    },
+    {
+      "sw_kod": "sw0273",
+      "nazev": "Luke Skywalker - Tatooine, Light Nougat, Long Hair, White Tunic, Tan Legs, White Glints"
+    },
+    {
+      "sw_kod": "sw0426",
+      "nazev": "Imperial Officer with Battle Armor (Captain / Commandant / Commander) - Chin Strap"
+    },
+    {
+      "sw_kod": "sw0425",
+      "nazev": "Hoth Rebel Trooper Tan Uniform (Moustache)"
+    },
+    {
+      "sw_kod": "sw0013",
+      "nazev": "Gungan Soldier - Green Outfit, Plain Head"
+    },
     {
       "sw_kod": "sw1438",
       "nazev": "Solitus"
