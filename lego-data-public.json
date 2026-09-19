@@ -1,6 +1,42 @@
 {
-  "generated": "2026-09-16T19:47:39.283Z",
+  "generated": "2026-09-19T10:00:57.759Z",
   "figs": [
+    {
+      "sw_kod": "sw0310",
+      "nazev": "Luminara Unduli - Black Headgear"
+    },
+    {
+      "sw_kod": "sw0314",
+      "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 1) - Dark Bluish Gray Rangefinder, Pauldron, and Kama, Large Eyes"
+    },
+    {
+      "sw_kod": "sw0001c",
+      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
+    },
+    {
+      "sw_kod": "sw0059",
+      "nazev": "Zam Wesell"
+    },
+    {
+      "sw_kod": "sw0055",
+      "nazev": "Obi-Wan Kenobi (Young with Dark Orange Hair and Headset)"
+    },
+    {
+      "sw_kod": "sw0100",
+      "nazev": "Anakin Skywalker (Padawan) - Yellow Head"
+    },
+    {
+      "sw_kod": "sw0053",
+      "nazev": "Jango Fett - Balaclava Head"
+    },
+    {
+      "sw_kod": "sw0054",
+      "nazev": "Boba Fett, Young - Medium Blue Shirt, Yellow Head"
+    },
+    {
+      "sw_kod": "sw0423",
+      "nazev": "Santa Darth Maul"
+    },
     {
       "sw_kod": "sw0098",
       "nazev": "Luke Skywalker (Hoth)"
@@ -216,10 +252,6 @@
     {
       "sw_kod": "sw1338",
       "nazev": "Battle Droid Pilot - Blue Torso with Tan Insignia and Chest Badge, Angled Arm and Straight Arm"
-    },
-    {
-      "sw_kod": "sw0001c",
-      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
     },
     {
       "sw_kod": "sw1428",
@@ -2203,6 +2235,18 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "7869",
+      "nazev": "Battle for Geonosis"
+    },
+    {
+      "cislo": "7133",
+      "nazev": "Bounty Hunter Pursuit"
+    },
+    {
+      "cislo": "7153",
+      "nazev": "Jango Fett's Slave I"
+    },
     {
       "cislo": "75414",
       "nazev": "The Force Burner Snowspeeder"
