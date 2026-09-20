@@ -1,13 +1,9 @@
 {
-  "generated": "2026-09-19T23:44:19.280Z",
+  "generated": "2026-09-20T17:09:05.997Z",
   "figs": [
     {
-      "sw_kod": "sw0322",
-      "nazev": "Qui-Gon Jinn - Light Nougat Head, Reddish Brown Legs and Cape"
-    },
-    {
-      "sw_kod": "sw0721",
-      "nazev": "Resistance Trooper - Resistance Logo"
+      "sw_kod": "sw0520",
+      "nazev": "Imperial Gunner - Helmet with Silver Imperial Logo, Light Nougat Head, Open Mouth"
     },
     {
       "sw_kod": "sw0310",
@@ -492,6 +488,10 @@
     {
       "sw_kod": "sw0713",
       "nazev": "Wookiee - Reddish Brown with Dark Tan Fur, Printed Legs, Plain Arms"
+    },
+    {
+      "sw_kod": "sw0721",
+      "nazev": "Resistance Trooper - Resistance Logo"
     },
     {
       "sw_kod": "sw0784",
