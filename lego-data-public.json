@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-20T18:08:20.041Z",
+  "generated": "2026-09-23T15:26:01.016Z",
   "figs": [
+    {
+      "sw_kod": "sw1548",
+      "nazev": "Pit Droid - Red, Green and Gold Holiday Outfit"
+    },
+    {
+      "sw_kod": "sw1547",
+      "nazev": "Moff Gideon - Holiday Sweater"
+    },
+    {
+      "sw_kod": "sw1518",
+      "nazev": "Carson Teva"
+    },
+    {
+      "sw_kod": "sw1542",
+      "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Straps with Pouches"
+    },
+    {
+      "sw_kod": "sw1546",
+      "nazev": "IG-11 - Dark Tan Torso"
+    },
+    {
+      "sw_kod": "sw1545",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Holiday Robe"
+    },
+    {
+      "sw_kod": "sw1544",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Holiday Sweater"
+    },
     {
       "sw_kod": "sw0322",
       "nazev": "Qui-Gon Jinn - Light Nougat Head, Reddish Brown Legs and Cape"
@@ -96,10 +124,6 @@
     {
       "sw_kod": "sw1543",
       "nazev": "Kuiil - Backpack"
-    },
-    {
-      "sw_kod": "sw1542",
-      "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Straps with Pouches"
     },
     {
       "sw_kod": "sw1541",
@@ -312,10 +336,6 @@
     {
       "sw_kod": "sw1516",
       "nazev": "Colonel Ward - X-Wing Flightsuit"
-    },
-    {
-      "sw_kod": "sw1518",
-      "nazev": "Carson Teva - X-Wing Flightsuit"
     },
     {
       "sw_kod": "sw0501",
@@ -2243,6 +2263,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75456",
+      "nazev": "Advent Calendar 2026, Star Wars"
+    },
     {
       "cislo": "7869",
       "nazev": "Battle for Geonosis"
