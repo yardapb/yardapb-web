@@ -1,6 +1,18 @@
 {
-  "generated": "2026-10-04T13:49:53.484Z",
+  "generated": "2026-10-17T11:23:42.840Z",
   "figs": [
+    {
+      "sw_kod": "sw1258",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Helmet with Top Lines"
+    },
+    {
+      "sw_kod": "sw1113",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda'"
+    },
+    {
+      "sw_kod": "sw1403",
+      "nazev": "Astromech Droid, R5-D4 - Truncated Cone Head, Dark Blue Center Panel"
+    },
     {
       "sw_kod": "sw0867",
       "nazev": "Resistance Trooper - Dark Tan Hoodie Jacket, Harness, Beard, Helmet with Chin Guard"
@@ -668,10 +680,6 @@
     {
       "sw_kod": "sw1245",
       "nazev": "Boba Fett - Repainted Beskar Armor, Jet Pack"
-    },
-    {
-      "sw_kod": "sw1258",
-      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Helmet with Top Lines"
     },
     {
       "sw_kod": "sw1143",
@@ -1574,10 +1582,6 @@
       "nazev": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown"
     },
     {
-      "sw_kod": "sw1113",
-      "nazev": "Din Grogu / The Child / 'Baby Yoda'"
-    },
-    {
       "sw_kod": "sw1114",
       "nazev": "Greef Kargaza"
     },
@@ -2295,6 +2299,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75410",
+      "nazev": "Mando and Grogu's N-1 Starfighter"
+    },
     {
       "cislo": "75456",
       "nazev": "Advent Calendar 2026, Star Wars"
