@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-17T11:23:42.840Z",
+  "generated": "2026-10-21T18:41:30.706Z",
   "figs": [
+    {
+      "sw_kod": "sw0600",
+      "nazev": "Security Battle Droid - Dark Red Torso with Tan Insignia, Angled Arm and Straight Arm"
+    },
+    {
+      "sw_kod": "sw1324",
+      "nazev": "Nash Durango"
+    },
+    {
+      "sw_kod": "sw1484",
+      "nazev": "Imperial TIE Fighter Pilot - Medium Tan Head"
+    },
+    {
+      "sw_kod": "sw1376",
+      "nazev": "Imperial Gunner - Helmet with White Imperial Logo, Nougat Head"
+    },
     {
       "sw_kod": "sw1258",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Helmet with Top Lines"
