@@ -1,6 +1,34 @@
 {
-  "generated": "2026-10-21T18:41:30.706Z",
+  "generated": "2026-10-24T14:54:35.731Z",
   "figs": [
+    {
+      "sw_kod": "sw1326",
+      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head"
+    },
+    {
+      "sw_kod": "sw1375",
+      "nazev": "Imperial Navy Trooper - Medium Tan Head"
+    },
+    {
+      "sw_kod": "sw1376",
+      "nazev": "Imperial Gunner - Helmet with White Imperial Logo, Nougat Head"
+    },
+    {
+      "sw_kod": "sw1373",
+      "nazev": "Imperial Crew - Black Cap, Open Mouth"
+    },
+    {
+      "sw_kod": "sw1273",
+      "nazev": "Darth Vader - Printed Arms, Traditional Starched Fabric Cape, White Head with Frown"
+    },
+    {
+      "sw_kod": "sw1374",
+      "nazev": "Commander Praji"
+    },
+    {
+      "sw_kod": "sw1377",
+      "nazev": "Cal Kestis"
+    },
     {
       "sw_kod": "sw0600",
       "nazev": "Security Battle Droid - Dark Red Torso with Tan Insignia, Angled Arm and Straight Arm"
@@ -12,10 +40,6 @@
     {
       "sw_kod": "sw1484",
       "nazev": "Imperial TIE Fighter Pilot - Medium Tan Head"
-    },
-    {
-      "sw_kod": "sw1376",
-      "nazev": "Imperial Gunner - Helmet with White Imperial Logo, Nougat Head"
     },
     {
       "sw_kod": "sw1258",
@@ -1838,10 +1862,6 @@
       "nazev": "Darth Malak"
     },
     {
-      "sw_kod": "sw1326",
-      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head"
-    },
-    {
       "sw_kod": "sw1328",
       "nazev": "Captain Antilles - Dark Tan Shirt"
     },
@@ -1948,14 +1968,6 @@
     {
       "sw_kod": "sw1372",
       "nazev": "Nien Nunb"
-    },
-    {
-      "sw_kod": "sw1373",
-      "nazev": "Imperial Crew - Black Cap, Open Mouth"
-    },
-    {
-      "sw_kod": "sw1375",
-      "nazev": "Imperial Navy Trooper - Medium Tan Head"
     },
     {
       "sw_kod": "sw1379",
@@ -2315,6 +2327,14 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "40795",
+      "nazev": "Luke Skywalker (Rebel Pilot)"
+    },
+    {
+      "cislo": "75394",
+      "nazev": "Imperial Star Destroyer"
+    },
     {
       "cislo": "75410",
       "nazev": "Mando and Grogu's N-1 Starfighter"
