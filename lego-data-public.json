@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-29T16:59:37.361Z",
+  "generated": "2026-10-29T17:18:30.168Z",
   "figs": [
+    {
+      "sw_kod": "sw1394",
+      "nazev": "L0-LA59 Droid (Lola)"
+    },
+    {
+      "sw_kod": "sw1348",
+      "nazev": "Princess Leia - Young"
+    },
     {
       "sw_kod": "sw1278",
       "nazev": "332nd Clone Trooper paper bag"
@@ -2327,6 +2335,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75392",
+      "nazev": "Creative Play Droid Builder"
+    },
     {
       "cislo": "40795",
       "nazev": "Luke Skywalker (Rebel Pilot)"
