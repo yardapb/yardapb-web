@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T17:18:30.168Z",
+  "generated": "2026-10-30T16:34:38.024Z",
   "figs": [
     {
       "sw_kod": "sw1394",
@@ -2335,6 +2335,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "30728",
+      "nazev": "The Razor Crest - Mini paper bag"
+    },
     {
       "cislo": "75392",
       "nazev": "Creative Play Droid Builder"
