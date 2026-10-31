@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-30T16:34:38.024Z",
+  "generated": "2026-10-31T18:12:45.765Z",
   "figs": [
+    {
+      "sw_kod": "sw1292",
+      "nazev": "Shin Hati"
+    },
+    {
+      "sw_kod": "sw1290",
+      "nazev": "Morgan Elsbeth - Black Skirt"
+    },
+    {
+      "sw_kod": "sw1289",
+      "nazev": "Captain Porter"
+    },
+    {
+      "sw_kod": "sw1293",
+      "nazev": "Baylan Skoll"
+    },
+    {
+      "sw_kod": "sw1291",
+      "nazev": "Astromech Droid, New Republic"
+    },
+    {
+      "sw_kod": "sw0916",
+      "nazev": "Qi'ra - Jacket with Collar"
+    },
+    {
+      "sw_kod": "sw1393",
+      "nazev": "Astromech Droid, QT-KT"
+    },
+    {
+      "sw_kod": "sw1298",
+      "nazev": "Ewok - Holiday Outfit"
+    },
     {
       "sw_kod": "sw1394",
       "nazev": "L0-LA59 Droid (Lola)"
@@ -2335,6 +2367,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75364",
+      "nazev": "New Republic E-Wing vs. Shin Hati's Starfighter"
+    },
     {
       "cislo": "30728",
       "nazev": "The Razor Crest - Mini paper bag"
