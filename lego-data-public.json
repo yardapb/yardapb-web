@@ -1,6 +1,26 @@
 {
-  "generated": "2026-11-04T20:52:19.322Z",
+  "generated": "2026-11-08T18:34:25.452Z",
   "figs": [
+    {
+      "sw_kod": "sw1321",
+      "nazev": "Super Battle Droid - Pearl Dark Gray, Narrow Head, Chest Light Indent"
+    },
+    {
+      "sw_kod": "sw1320",
+      "nazev": "Battle Droid - Tan, Angled Arms, Light Bluish Gray Clip on Back"
+    },
+    {
+      "sw_kod": "sw1319",
+      "nazev": "Clone Trooper (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw1305",
+      "nazev": "Clone Shock Trooper, Coruscant Guard (Phase 2) - Nougat Head"
+    },
+    {
+      "sw_kod": "sw0001d",
+      "nazev": "Battle Droid - Tan, Straight Arms"
+    },
     {
       "sw_kod": "sw1553",
       "nazev": "4-LOM - Printed Arms"
@@ -812,10 +832,6 @@
     {
       "sw_kod": "sw1449",
       "nazev": "Imperial Probe Droid - Black and Dark Bluish Gray Body, Trans-Clear Dish Stand"
-    },
-    {
-      "sw_kod": "sw1321",
-      "nazev": "Super Battle Droid - Pearl Dark Gray, Narrow Head, Chest Light Indent"
     },
     {
       "sw_kod": "sw1448",
@@ -1890,16 +1906,8 @@
       "nazev": "Emperor Palpatine - Holiday Sweater"
     },
     {
-      "sw_kod": "sw1305",
-      "nazev": "Clone Shock Trooper, Coruscant Guard (Phase 2) - Nougat Head"
-    },
-    {
       "sw_kod": "sw1315",
       "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 2) - Blue Cloth Pauldron, Rangefinder, Printed White Arms"
-    },
-    {
-      "sw_kod": "sw1319",
-      "nazev": "Clone Trooper (Phase 2) - Nougat Head"
     },
     {
       "sw_kod": "sw1325",
@@ -2371,6 +2379,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75372",
+      "nazev": "Clone Trooper & Battle Droid Battle Pack"
+    },
     {
       "cislo": "75364",
       "nazev": "New Republic E-Wing vs. Shin Hati's Starfighter"
