@@ -1,6 +1,178 @@
 {
-  "generated": "2026-11-08T18:34:25.452Z",
+  "generated": "2026-11-10T21:09:04.803Z",
   "figs": [
+    {
+      "sw_kod": "sw1255",
+      "nazev": "Obi-Wan Kenobi - Reddish Brown Robe and Hood"
+    },
+    {
+      "sw_kod": "sw1241",
+      "nazev": "Astromech Droid, R2-D2 - Holiday Sweater"
+    },
+    {
+      "sw_kod": "sw1155",
+      "nazev": "Darth Maul - Printed Legs with Silver Armor"
+    },
+    {
+      "sw_kod": "sw1066",
+      "nazev": "Finn - Medium Nougat Jacket, Dark Blue Legs with Holster"
+    },
+    {
+      "sw_kod": "sw1031",
+      "nazev": "Imperial Shadow Trooper - Male, Dual Molded Helmet, Light Nougat Head, Scowl"
+    },
+    {
+      "sw_kod": "sw0913",
+      "nazev": "Imperial Recruitment Officer (Chief / Navy Captain)"
+    },
+    {
+      "sw_kod": "sw0889",
+      "nazev": "Mace Windu (Dark Tan Legs)"
+    },
+    {
+      "sw_kod": "sw0846",
+      "nazev": "Obi-Wan Kenobi (Mid-Length Tousled with Center Part Hair and Headset)"
+    },
+    {
+      "sw_kod": "sw0834",
+      "nazev": "Darth Vader (Light Nougat Head, Plain Arms)"
+    },
+    {
+      "sw_kod": "sw0807",
+      "nazev": "Imperial Death Trooper - Black Armor"
+    },
+    {
+      "sw_kod": "sw0793",
+      "nazev": "Rebel Pilot U-wing / Y-wing"
+    },
+    {
+      "sw_kod": "sw0792",
+      "nazev": "Rebel Trooper (Corporal Eskro Casrich)"
+    },
+    {
+      "sw_kod": "sw0790",
+      "nazev": "Cassian Andor - Dark Blue Coat"
+    },
+    {
+      "sw_kod": "sw0714",
+      "nazev": "Han Solo - White Shirt with Wrinkles on Front, Dark Brown Legs, Smooth Hair"
+    },
+    {
+      "sw_kod": "sw0711",
+      "nazev": "Boba Fett - Dark Tan Printed Pauldron, Helmet, Jet Pack, Plain Arms, Printed Legs"
+    },
+    {
+      "sw_kod": "sw0709",
+      "nazev": "Han Solo - Parka, Dark Brown Coat (Hoth)"
+    },
+    {
+      "sw_kod": "sw0690",
+      "nazev": "Rebel Trooper, Rebel Helmet, Jet Pack"
+    },
+    {
+      "sw_kod": "sw0689",
+      "nazev": "Duros Alliance Fighter, Jet Pack"
+    },
+    {
+      "sw_kod": "sw0688",
+      "nazev": "Rebel Trooper, Goggles, Dark Tan Helmet"
+    },
+    {
+      "sw_kod": "sw0678",
+      "nazev": "Hoth Rebel Trooper White Uniform (Cheek Lines)"
+    },
+    {
+      "sw_kod": "sw0634a",
+      "nazev": "Emperor Palpatine (Spongy Cape)"
+    },
+    {
+      "sw_kod": "sw0617",
+      "nazev": "Imperial Stormtrooper - Printed Legs, Dark Azure Helmet Vents, Frown"
+    },
+    {
+      "sw_kod": "sw0608",
+      "nazev": "Clone Trooper Pilot (Phase 2) - Light Bluish Gray Arms and Legs, Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw0597",
+      "nazev": "Snowspeeder Pilot - White Helmet, Headset"
+    },
+    {
+      "sw_kod": "sw0569",
+      "nazev": "Luke Skywalker (Pilot, Printed Legs, Cheek Lines)"
+    },
+    {
+      "sw_kod": "sw0568",
+      "nazev": "Snowtrooper, Light Bluish Gray Hips, Light Bluish Gray Hands, White Kama"
+    },
+    {
+      "sw_kod": "sw0567",
+      "nazev": "Dak Ralter (with Pockets on Legs)"
+    },
+    {
+      "sw_kod": "sw0565",
+      "nazev": "Astromech Droid, C1-10P (Chopper) - Light Bluish Gray Body"
+    },
+    {
+      "sw_kod": "sw0541",
+      "nazev": "Clone Trooper (Phase 2) - Light Nougat Head"
+    },
+    {
+      "sw_kod": "sw0529",
+      "nazev": "Imperial Gunner - Helmet with Silver Imperial Logo, Light Nougat Head, Closed Mouth"
+    },
+    {
+      "sw_kod": "sw0522",
+      "nazev": "Clone Trooper, 212th Attack Battalion (Phase 2) - Orange Arms, Dirt Stains, Scowl"
+    },
+    {
+      "sw_kod": "sw0448",
+      "nazev": "Commando Droid Captain"
+    },
+    {
+      "sw_kod": "sw0432",
+      "nazev": "Luke Skywalker (Tatooine, Smiling)"
+    },
+    {
+      "sw_kod": "sw0399",
+      "nazev": "Rebel Pilot X-wing"
+    },
+    {
+      "sw_kod": "sw0393",
+      "nazev": "Astromech Droid, R3-D5"
+    },
+    {
+      "sw_kod": "sw0375",
+      "nazev": "Astromech Droid, R5-J2"
+    },
+    {
+      "sw_kod": "sw0365",
+      "nazev": "C-3PO - Colorful Wires Pattern"
+    },
+    {
+      "sw_kod": "sw0360",
+      "nazev": "Battle Droid Pilot - Blue Torso with Tan Insignia, Angled Arm and Straight Arm"
+    },
+    {
+      "sw_kod": "sw0359",
+      "nazev": "Commando Droid - Dark Brown"
+    },
+    {
+      "sw_kod": "sw0354",
+      "nazev": "Zev Senesca - Plain Helmet"
+    },
+    {
+      "sw_kod": "sw0295",
+      "nazev": "Luke Skywalker - Pilot Suit, Detailed Torso and Helmet"
+    },
+    {
+      "sw_kod": "sw0155",
+      "nazev": "Astromech Droid, R2-D5"
+    },
+    {
+      "sw_kod": "sw0001b",
+      "nazev": "Battle Droid - Tan, Angled Arms"
+    },
     {
       "sw_kod": "sw1321",
       "nazev": "Super Battle Droid - Pearl Dark Gray, Narrow Head, Chest Light Indent"
