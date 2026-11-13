@@ -1,6 +1,26 @@
 {
-  "generated": "2026-11-13T21:47:01.175Z",
+  "generated": "2026-11-13T22:21:54.669Z",
   "figs": [
+    {
+      "sw_kod": "sw0702",
+      "nazev": "Imperial Combat Driver - Gray Uniform"
+    },
+    {
+      "sw_kod": "sw1532",
+      "nazev": "Embo - Olive Green"
+    },
+    {
+      "sw_kod": "sw1399",
+      "nazev": "Clone Trooper Pilot Odd Ball (Phase 2)"
+    },
+    {
+      "sw_kod": "sw1401",
+      "nazev": "Clone Trooper Pilot Captain Jag (Phase 2) - Light Bluish Gray Arms"
+    },
+    {
+      "sw_kod": "sw1400",
+      "nazev": "Astromech Droid, R4-P44 - Dark Silver Band Around Dome"
+    },
     {
       "sw_kod": "sw1552",
       "nazev": "Bossk - Dark Tan"
