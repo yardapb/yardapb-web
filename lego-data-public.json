@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T17:15:51.231Z",
+  "generated": "2026-11-13T21:47:01.175Z",
   "figs": [
     {
       "sw_kod": "sw1552",
@@ -2555,6 +2555,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "30727",
+      "nazev": "TIE Advanced - Mini paper bag"
+    },
     {
       "cislo": "75372",
       "nazev": "Clone Trooper & Battle Droid Battle Pack"
