@@ -1,6 +1,14 @@
 {
-  "generated": "2026-11-13T22:21:54.669Z",
+  "generated": "2026-11-15T18:31:12.590Z",
   "figs": [
+    {
+      "sw_kod": "sw1164",
+      "nazev": "Mandalorian Loyalist"
+    },
+    {
+      "sw_kod": "sw1551",
+      "nazev": "Zuckuss - Dark Tan Spots"
+    },
     {
       "sw_kod": "sw0702",
       "nazev": "Imperial Combat Driver - Gray Uniform"
