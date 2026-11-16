@@ -1,6 +1,10 @@
 {
-  "generated": "2026-11-15T18:31:12.590Z",
+  "generated": "2026-11-16T16:27:20.411Z",
   "figs": [
+    {
+      "sw_kod": "sw0001c",
+      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
+    },
     {
       "sw_kod": "sw1164",
       "nazev": "Mandalorian Loyalist"
@@ -404,10 +408,6 @@
     {
       "sw_kod": "sw0314",
       "nazev": "Clone Trooper Captain Rex, 501st Legion (Phase 1) - Dark Bluish Gray Rangefinder, Pauldron, and Kama, Large Eyes"
-    },
-    {
-      "sw_kod": "sw0001c",
-      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
     },
     {
       "sw_kod": "sw0059",
