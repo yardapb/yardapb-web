@@ -1,6 +1,26 @@
 {
-  "generated": "2026-11-16T16:27:20.411Z",
+  "generated": "2026-11-23T16:33:32.043Z",
   "figs": [
+    {
+      "sw_kod": "sw0041",
+      "nazev": "Emperor Palpatine - Yellow Head, Yellow Hands"
+    },
+    {
+      "sw_kod": "sw1223",
+      "nazev": "Imperial Inquisitor Fifth Brother - Black Uniform"
+    },
+    {
+      "sw_kod": "sw0268a",
+      "nazev": "Imperial TIE Fighter Pilot - Black Head, Balaclava"
+    },
+    {
+      "sw_kod": "sw0378",
+      "nazev": "Clone ARF Trooper, Rancor Battalion (Phase 1) - Large Eyes"
+    },
+    {
+      "sw_kod": "sw0436",
+      "nazev": "Sith Trooper - Dark Red Armor, Printed Legs"
+    },
     {
       "sw_kod": "sw0001c",
       "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm"
