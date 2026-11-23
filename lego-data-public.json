@@ -1,6 +1,10 @@
 {
-  "generated": "2026-11-23T16:33:32.043Z",
+  "generated": "2026-11-23T18:45:49.405Z",
   "figs": [
+    {
+      "sw_kod": "sw1308",
+      "nazev": "Astromech Droid, C1-10P (Chopper) - White Body"
+    },
     {
       "sw_kod": "sw0041",
       "nazev": "Emperor Palpatine - Yellow Head, Yellow Hands"
@@ -2603,6 +2607,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75416",
+      "nazev": "Chopper (C1-10P)"
+    },
     {
       "cislo": "30727",
       "nazev": "TIE Advanced - Mini paper bag"
