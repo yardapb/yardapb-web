@@ -1,6 +1,18 @@
 {
-  "generated": "2026-11-26T07:05:16.107Z",
+  "generated": "2026-11-28T10:40:11.161Z",
   "figs": [
+    {
+      "sw_kod": "sw1521",
+      "nazev": "Imperial Remnant AT-RT Driver"
+    },
+    {
+      "sw_kod": "sw1520",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
+    },
+    {
+      "sw_kod": "sw1519",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
+    },
     {
       "sw_kod": "sw1308",
       "nazev": "Astromech Droid, C1-10P (Chopper) - White Body"
@@ -518,10 +530,6 @@
       "nazev": "Jawa - Dark Bluish Gray Offworld Outfit, Strap with Pouches"
     },
     {
-      "sw_kod": "sw1520",
-      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe"
-    },
-    {
       "sw_kod": "sw1107",
       "nazev": "Emperor Palpatine - Hood Basic, Orange Eyes"
     },
@@ -636,10 +644,6 @@
     {
       "sw_kod": "sw1533",
       "nazev": "Imperial Remnant Warlord"
-    },
-    {
-      "sw_kod": "sw1519",
-      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads"
     },
     {
       "sw_kod": "sw1430",
@@ -2607,6 +2611,10 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75444",
+      "nazev": "AT-RT Attack"
+    },
     {
       "cislo": "75416",
       "nazev": "Chopper (C1-10P)"
